@@ -20,48 +20,6 @@ beIN体育 4K,http://doubleclicktv.live/70376812/52663544/325450
 beIN体育 HD,http://doubleclicktv.live/70376812/52663544/325455
 
 🦄台湾「网络搜索」,#genre#
-台视,https://histar.zapi.us.kg/?id=ttv
-台视,http://histar-proxy.isus.cc/ttv
-台视,http://histar-proxy.isus.cc/ttv
-台视,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv066
-民视,https://histar.zapi.us.kg/?id=ftv
-民视,http://198.204.244.250:8080/live/120/hls.m3u8
-民视,http://8.137.59.151:99/fhtv/fenghuang.php?id=26
-民视,https://epg.pw/stream/759890ecf3c5ede3ae68c067607458a7b94737e14a330f2931b1d43d329dc777.m3u8
-民视,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv002
-民视,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv155
-民视台湾,http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-华视,https://histar.zapi.us.kg/?id=cts
-华视,http://198.204.244.250:8080/live/118/hls.m3u8
-华视,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv041
-华视,http://66.165.240.154:8080/live/tytvbs10/hls.m3u8
-中视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8
-中视,https://histar.zapi.us.kg/?id=ctv
-中视,http://198.204.244.250:8080/live/117/hls.m3u8
-中视,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv040
-中视,http://8.137.59.151:99/fhtv/fenghuang.php?id=28
-中视,https://epg.pw/stream/c869c376ae69423ceabac16cb67456ba3976bc1bc8b517ac29f475479462100e.m3u8
-三立都会,https://z88.ubtvfans.com/live/rx1/2435/ea85f251db5b39cc8ca85abb7f2349e0/index.m3u8
-三立都会,https://z88.ubtvfans.com/live/rx1/1001/b1231318422a83c6d474846f46096c8c/index.m3u8
-三立都会,https://z88.ubtvfans.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
-三立综合,http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-三立综合,http://66.165.240.154:8080/live/slxw02/hls.m3u8
-三立台湾,http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-公视,https://histar.zapi.us.kg/?id=pts
-公视,http://histar-proxy.isus.cc/pts
-公视,http://8.137.59.151:99/fhtv/fenghuang.php?id=118
-公视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8505/.m3u8
-中天综合,https://histar.zapi.us.kg/?id=ctitv36
-中天综合,http://histar-proxy.isus.cc/ctitv36
-中天综合,http://8.137.59.151:99/fhtv/fenghuang.php?id=40
-中天综合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
-中天娱乐,https://histar.zapi.us.kg/?id=cti-yule
-中天娱乐,http://histar-proxy.isus.cc/cti-yule
-中天娱乐,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
-中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
-TVBS欢乐,https://bsex.serv00.net/Smart.php?id=tvbshuanle_twn
-TVBS欢乐,https://z88.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大综合,https://bsex.serv00.net/Smart.php?id=badazhonghe
 八大综合,http://37.27.111.214:8080/live/21/hls.m3u8
@@ -73,8 +31,6 @@ TVBS,https://bsex.serv00.net/Smart.php?id=tvbs
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-年代959,http://live.cooltv.top/tv/ytradio.php?id=2397
-年代much,https://z88.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来日本,https://bsex.serv00.net/Smart.php?id=videolandjapan
@@ -82,32 +38,15 @@ TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 纬来综合,https://histar.zapi.us.kg/?id=videoland
 纬来体育,https://bsex.serv00.net/Smart.php?id=videolandsport
 纬来体育,https://histar.zapi.us.kg/?id=videoland-sport
-东森超视,http://66.165.240.154:8080/live/gatdscj02/hls.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,https://epg.pw/stream/2d58d8f0a0cd55789fbbe7d305795dea3656816d9afa0bd3baabc067e54b218c.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-华视新闻,http://194.87.101.118/live.m3u8?c=13
-中视新闻,http://194.87.101.118/live.m3u8?c=6
 三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-三立新闻,http://194.87.101.118/live.m3u8?c=12
 三立新闻,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
-公视新闻,http://194.87.101.118/live.m3u8?c=8
-中天新闻,http://194.87.101.118/live.m3u8?c=7
 中天新闻,https://bsex.serv00.net/Smart.php?id=ctinews
 中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 中天新闻,https://epg.pw/stream/a62732193d00a568f75f933ea1ae23e6675480055b9cf392089c3c369f1fd0e7.m3u8
 中天新闻,https://histar.zapi.us.kg/?id=cti-news
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://194.87.101.118/live.m3u8?c=5
-年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
-年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
-年代新闻,https://bsex.serv00.net/Smart.php?id=niandainews_twn
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 东森新闻,https://bsex.serv00.net/Smart.php?id=ettvnews
 东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
@@ -184,7 +123,7 @@ TVBS新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f0
 民视新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-ftv13
 民视台湾,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv001
 寰宇新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn14
-寰宇新闻台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn15
+寰宇新闻,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=litv-longturn15
 台视,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv066
 民视,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv002
 民视,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv155
@@ -3893,7 +3832,6 @@ CGTN Arabic,http://livear.cgtn.com/1000a/prog_index.m3u8
 埋堆堆 𝟚𝟞,http://live.iill.top/huya.php?id=23749083
 
 🦄斗鱼轮播🦈,#genre#
-👉添加售后唯一微信👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 「斗鱼」警匪电影,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 「斗鱼」香港经典,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 「斗鱼」国外大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
@@ -4295,7 +4233,6 @@ pptersgxx,https://www.goodiptv.club/douyu/11987909
 
 
 🦄虎牙轮播🐯,#genre#
-👉添加售后唯一微信👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
 电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
 电影_发哥,http://cfss.cc/cdn/hy/11342387.flv
@@ -5062,7 +4999,7 @@ NCT127-悠太,https://www.goodiptv.club/huya/637219
 JS丶雨秋-太子府,https://www.goodiptv.club/huya/24870267
 
 🦄YY轮播🦞,#genre#
-👉添加售后唯一微信👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
+
 绝版电影 港片女鬼,https://lunbo.freetv.top/yy/1455988450
 港片 喜剧 动作,https://lunbo.freetv.top/yy/1355480591
 幸福满院,https://lunbo.freetv.top/yy/1382737886
