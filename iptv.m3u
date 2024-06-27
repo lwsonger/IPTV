@@ -37,90 +37,6 @@ http://doubleclicktv.live/70376812/52663544/250784
 http://doubleclicktv.live/70376812/52663544/325457
 #EXTINF:-1 tvg-name="beIN体育 HD" tvg-logo="https://live.fanmingming.com/tv/beIN体育 HD.png" group-title="🏆欧洲杯赛事🏆",beIN体育 HD
 http://doubleclicktv.live/70376812/52663544/325455
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="🦄台湾「网络搜索」",台视
-https://histar.zapi.us.kg/?id=ttv
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="🦄台湾「网络搜索」",台视
-http://histar-proxy.isus.cc/ttv
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="🦄台湾「网络搜索」",台视
-http://histar-proxy.isus.cc/ttv
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="🦄台湾「网络搜索」",台视
-http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv066
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="🦄台湾「网络搜索」",民视
-https://histar.zapi.us.kg/?id=ftv
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="🦄台湾「网络搜索」",民视
-http://198.204.244.250:8080/live/120/hls.m3u8
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="🦄台湾「网络搜索」",民视
-http://8.137.59.151:99/fhtv/fenghuang.php?id=26
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="🦄台湾「网络搜索」",民视
-https://epg.pw/stream/759890ecf3c5ede3ae68c067607458a7b94737e14a330f2931b1d43d329dc777.m3u8
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="🦄台湾「网络搜索」",民视
-http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv002
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="🦄台湾「网络搜索」",民视
-http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv155
-#EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://live.fanmingming.com/tv/民视台湾.png" group-title="🦄台湾「网络搜索」",民视台湾
-http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="🦄台湾「网络搜索」",华视
-https://histar.zapi.us.kg/?id=cts
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="🦄台湾「网络搜索」",华视
-http://198.204.244.250:8080/live/118/hls.m3u8
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="🦄台湾「网络搜索」",华视
-http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv041
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="🦄台湾「网络搜索」",华视
-http://66.165.240.154:8080/live/tytvbs10/hls.m3u8
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="🦄台湾「网络搜索」",中视
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="🦄台湾「网络搜索」",中视
-https://histar.zapi.us.kg/?id=ctv
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="🦄台湾「网络搜索」",中视
-http://198.204.244.250:8080/live/117/hls.m3u8
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="🦄台湾「网络搜索」",中视
-http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv040
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="🦄台湾「网络搜索」",中视
-http://8.137.59.151:99/fhtv/fenghuang.php?id=28
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="🦄台湾「网络搜索」",中视
-https://epg.pw/stream/c869c376ae69423ceabac16cb67456ba3976bc1bc8b517ac29f475479462100e.m3u8
-#EXTINF:-1 tvg-name="三立都会" tvg-logo="https://live.fanmingming.com/tv/三立都会.png" group-title="🦄台湾「网络搜索」",三立都会
-https://z88.ubtvfans.com/live/rx1/2435/ea85f251db5b39cc8ca85abb7f2349e0/index.m3u8
-#EXTINF:-1 tvg-name="三立都会" tvg-logo="https://live.fanmingming.com/tv/三立都会.png" group-title="🦄台湾「网络搜索」",三立都会
-https://z88.ubtvfans.com/live/rx1/1001/b1231318422a83c6d474846f46096c8c/index.m3u8
-#EXTINF:-1 tvg-name="三立都会" tvg-logo="https://live.fanmingming.com/tv/三立都会.png" group-title="🦄台湾「网络搜索」",三立都会
-https://z88.ubtvfans.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
-#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://live.fanmingming.com/tv/三立综合.png" group-title="🦄台湾「网络搜索」",三立综合
-http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://live.fanmingming.com/tv/三立综合.png" group-title="🦄台湾「网络搜索」",三立综合
-http://66.165.240.154:8080/live/slxw02/hls.m3u8
-#EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://live.fanmingming.com/tv/三立台湾.png" group-title="🦄台湾「网络搜索」",三立台湾
-http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
-#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://live.fanmingming.com/tv/三立戏剧.png" group-title="🦄台湾「网络搜索」",三立戏剧
-http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 tvg-name="公视" tvg-logo="https://live.fanmingming.com/tv/公视.png" group-title="🦄台湾「网络搜索」",公视
-https://histar.zapi.us.kg/?id=pts
-#EXTINF:-1 tvg-name="公视" tvg-logo="https://live.fanmingming.com/tv/公视.png" group-title="🦄台湾「网络搜索」",公视
-http://histar-proxy.isus.cc/pts
-#EXTINF:-1 tvg-name="公视" tvg-logo="https://live.fanmingming.com/tv/公视.png" group-title="🦄台湾「网络搜索」",公视
-http://8.137.59.151:99/fhtv/fenghuang.php?id=118
-#EXTINF:-1 tvg-name="公视" tvg-logo="https://live.fanmingming.com/tv/公视.png" group-title="🦄台湾「网络搜索」",公视
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8505/.m3u8
-#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://live.fanmingming.com/tv/中天综合.png" group-title="🦄台湾「网络搜索」",中天综合
-https://histar.zapi.us.kg/?id=ctitv36
-#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://live.fanmingming.com/tv/中天综合.png" group-title="🦄台湾「网络搜索」",中天综合
-http://histar-proxy.isus.cc/ctitv36
-#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://live.fanmingming.com/tv/中天综合.png" group-title="🦄台湾「网络搜索」",中天综合
-http://8.137.59.151:99/fhtv/fenghuang.php?id=40
-#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://live.fanmingming.com/tv/中天综合.png" group-title="🦄台湾「网络搜索」",中天综合
-http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
-#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://live.fanmingming.com/tv/中天娱乐.png" group-title="🦄台湾「网络搜索」",中天娱乐
-https://histar.zapi.us.kg/?id=cti-yule
-#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://live.fanmingming.com/tv/中天娱乐.png" group-title="🦄台湾「网络搜索」",中天娱乐
-http://histar-proxy.isus.cc/cti-yule
-#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://live.fanmingming.com/tv/中天娱乐.png" group-title="🦄台湾「网络搜索」",中天娱乐
-https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
-#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://live.fanmingming.com/tv/中天娱乐.png" group-title="🦄台湾「网络搜索」",中天娱乐
-http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
-#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐.png" group-title="🦄台湾「网络搜索」",TVBS欢乐
-https://bsex.serv00.net/Smart.php?id=tvbshuanle_twn
-#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐.png" group-title="🦄台湾「网络搜索」",TVBS欢乐
-https://z88.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
 #EXTINF:-1 tvg-name="八大综合" tvg-logo="https://live.fanmingming.com/tv/八大综合.png" group-title="🦄台湾「网络搜索」",八大综合
 http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-name="八大综合" tvg-logo="https://live.fanmingming.com/tv/八大综合.png" group-title="🦄台湾「网络搜索」",八大综合
@@ -141,12 +57,8 @@ https://bsex.serv00.net/Smart.php?id=tvbs
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="🦄台湾「网络搜索」",TVBS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 tvg-name="TVBS亚洲台" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲台.png" group-title="🦄台湾「网络搜索」",TVBS亚洲台
+#EXTINF:-1 tvg-name="TVBS亚洲台" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲台.png" group-title="🦄台湾「网络搜索」",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-name="年代959" tvg-logo="https://live.fanmingming.com/tv/年代959.png" group-title="🦄台湾「网络搜索」",年代959
-http://live.cooltv.top/tv/ytradio.php?id=2397
-#EXTINF:-1 tvg-name="年代much" tvg-logo="https://live.fanmingming.com/tv/年代much.png" group-title="🦄台湾「网络搜索」",年代much
-https://z88.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
 #EXTINF:-1 tvg-name="纬来精采" tvg-logo="https://live.fanmingming.com/tv/纬来精采.png" group-title="🦄台湾「网络搜索」",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="纬来精采" tvg-logo="https://live.fanmingming.com/tv/纬来精采.png" group-title="🦄台湾「网络搜索」",纬来精采
@@ -154,15 +66,11 @@ http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://live.fanmingming.com/tv/纬来日本.png" group-title="🦄台湾「网络搜索」",纬来日本
 https://bsex.serv00.net/Smart.php?id=videolandjapan
 #EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://live.fanmingming.com/tv/纬来日本.png" group-title="🦄台湾「网络搜索」",纬来日本
-https://histar.zapi.us.kg/?id=videoland-japan
-#EXTINF:-1 tvg-name="纬来综合" tvg-logo="https://live.fanmingming.com/tv/纬来综合.png" group-title="🦄台湾「网络搜索」",纬来综合
-https://histar.zapi.us.kg/?id=videoland
+https://histar.zapi.us.kg/?id=videoland-japa
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="🦄台湾「网络搜索」",纬来体育
 https://bsex.serv00.net/Smart.php?id=videolandsport
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="🦄台湾「网络搜索」",纬来体育
 https://histar.zapi.us.kg/?id=videoland-sport
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🦄台湾「网络搜索」",东森超视
-http://66.165.240.154:8080/live/gatdscj02/hls.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="🦄台湾「网络搜索」",台视新闻
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="🦄台湾「网络搜索」",台视新闻
@@ -180,45 +88,16 @@ https://epg.pw/stream/2d58d8f0a0cd55789fbbe7d305795dea3656816d9afa0bd3baabc067e5
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="🦄台湾「网络搜索」",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="🦄台湾「网络搜索」",民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="🦄台湾「网络搜索」",华视新闻
-http://194.87.101.118/live.m3u8?c=13
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="🦄台湾「网络搜索」",中视新闻
-http://194.87.101.118/live.m3u8?c=6
-#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/三立新闻.png" group-title="🦄台湾「网络搜索」",三立新闻
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/三立新闻.png" group-title="🦄台湾「网络搜索」",三立新闻
-http://194.87.101.118/live.m3u8?c=12
-#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/三立新闻.png" group-title="🦄台湾「网络搜索」",三立新闻
-https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
-#EXTINF:-1 tvg-name="公视新闻" tvg-logo="https://live.fanmingming.com/tv/公视新闻.png" group-title="🦄台湾「网络搜索」",公视新闻
-http://194.87.101.118/live.m3u8?c=8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="🦄台湾「网络搜索」",中天新闻
-http://194.87.101.118/live.m3u8?c=7
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="🦄台湾「网络搜索」",中天新闻
-https://bsex.serv00.net/Smart.php?id=ctinews
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="🦄台湾「网络搜索」",中天新闻
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="🦄台湾「网络搜索」",中天新闻
-https://epg.pw/stream/a62732193d00a568f75f933ea1ae23e6675480055b9cf392089c3c369f1fd0e7.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="🦄台湾「网络搜索」",中天新闻
-https://histar.zapi.us.kg/?id=cti-news
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="🦄台湾「网络搜索」",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="🦄台湾「网络搜索」",TVBS新闻
 http://194.87.101.118/live.m3u8?c=5
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://live.fanmingming.com/tv/年代新闻.png" group-title="🦄台湾「网络搜索」",年代新闻
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://live.fanmingming.com/tv/年代新闻.png" group-title="🦄台湾「网络搜索」",年代新闻
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://live.fanmingming.com/tv/年代新闻.png" group-title="🦄台湾「网络搜索」",年代新闻
-https://bsex.serv00.net/Smart.php?id=niandainews_twn
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="🦄台湾「网络搜索」",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="🦄台湾「网络搜索」",东森新闻
 https://bsex.serv00.net/Smart.php?id=ettvnews
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="🦄台湾「网络搜索」",东森新闻
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 #EXTINF:-1 tvg-name="年代much" tvg-logo="https://live.fanmingming.com/tv/年代much.png" group-title="🦄湾湾频道「线路3」",年代much
 http://extraott.com:80/live/7921751389/6097373662/5508.m3u8
 #EXTINF:-1 tvg-name="三立都会" tvg-logo="https://live.fanmingming.com/tv/三立都会.png" group-title="🦄湾湾频道「线路3」",三立都会
