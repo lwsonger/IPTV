@@ -19,7 +19,96 @@ beIN体育 4K,http://doubleclicktv.live/70376812/52663544/325450
 波兰TVP 1 HD,http://doubleclicktv.live/70376812/52663544/325457
 beIN体育 HD,http://doubleclicktv.live/70376812/52663544/325455
 
-🦄台湾「网络搜索」,#genre#
+
+🦄湾湾频道「线路1」,#genre#
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+公视,http://194.87.101.118/live.m3u8?c=8
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+DAZN体育-1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育-2,rtmp://f13h.mine.nu/sat/tv741
+
+中天新闻,http://23.94.14.225:8848/live.m3u8?c=14
+TVBS新闻,http://23.94.14.225:8848/live.m3u8?c=1
+民视新闻,http://23.94.14.225:8848/live.m3u8?c=2
+三立新闻,http://23.94.14.225:8848/live.m3u8?c=3
+三立 iNEWS,http://23.94.14.225:8848/live.m3u8?c=4
+东森新闻,http://23.94.14.225:8848/live.m3u8?c=5
+中视新闻,http://23.94.14.225:8848/live.m3u8?c=8
+台视新闻,http://23.94.14.225:8848/live.m3u8?c=9
+寰宇新闻,http://23.94.14.225:8848/live.m3u8?c=10
+镜新闻,http://23.94.14.225:8848/live.m3u8?c=11
+公视新闻,http://23.94.14.225:8848/live.m3u8?c=13
+中天亚洲,http://194.87.101.118/live.m3u8?c=3
+台视新闻,http://194.87.101.118/live.m3u8?c=4
+TVBS新闻,http://194.87.101.118/live.m3u8?c=5
+中视新闻,http://194.87.101.118/live.m3u8?c=6
+中天新闻,http://194.87.101.118/live.m3u8?c=7
+公视新闻,http://194.87.101.118/live.m3u8?c=8
+镜新闻,http://194.87.101.118/live.m3u8?c=10
+民视新闻,http://194.87.101.118/live.m3u8?c=11
+三立新闻,http://194.87.101.118/live.m3u8?c=12
+华视新闻,http://194.87.101.118/live.m3u8?c=13
+
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+DW,http://61.221.215.25:8800/hls/1/index.m3u8
+NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+49号,http://61.221.215.25:8800/hls/49/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+
+纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+好消息综合,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+
+靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
+动物世界 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+东森新闻,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
+年代新闻,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+镜新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+亚洲经典,http://goldfm.cn:8000/goldfm
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
+🦄台湾网络搜索,#genre#
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大综合,https://bsex.serv00.net/Smart.php?id=badazhonghe
 八大综合,http://37.27.111.214:8080/live/21/hls.m3u8
@@ -52,7 +141,7 @@ TVBS新闻,http://194.87.101.118/live.m3u8?c=5
 东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 
 
-🦄湾湾频道「线路3」,#genre#
+🦄台湾extraott线路,#genre#
 年代much,http://extraott.com:80/live/7921751389/6097373662/5508.m3u8
 三立都会,http://extraott.com:80/live/7921751389/6097373662/5506.m3u8
 三立台湾,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
@@ -104,7 +193,7 @@ ET DRAMA,http://extraott.com:80/live/7921751389/6097373662/473540.m3u8
 SETI,http://extraott.com:80/live/7921751389/6097373662/473545.m3u8
 FORMOSA TV,http://extraott.com:80/live/7921751389/6097373662/473546.m3u8
 
-🦄湾湾频道「线路4」,#genre#
+🦄台湾sv6线路,#genre#
 民视,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv001
 民视第一台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv003
 TVBS,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv073
@@ -198,94 +287,570 @@ MEZZO LIVE,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f0
 GLOBETROTTER,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv016
 GinxTV,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv053
 
-🦄湾湾频道「线路2」,#genre#
-民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-公视,http://194.87.101.118/live.m3u8?c=8
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-DAZN体育-1,rtmp://f13h.mine.nu/sat/tv731
-DAZN体育-2,rtmp://f13h.mine.nu/sat/tv741
+🦄台湾fm1077线路,#genre#
+台視,http://fm1077.serv00.net/Smart.php?id=ttv_taiwan
+三立台灣台,http://fm1077.serv00.net/Smart.php?id=sanlitaiwan
+三立綜合台,http://fm1077.serv00.net/Smart.php?id=sanlizhonghe
+民視,http://fm1077.serv00.net/Smart.php?id=ftvhd_taiwan
+民視第一台,http://fm1077.serv00.net/Smart.php?id=lunghuajingdian_twn
+民視台灣台,http://fm1077.serv00.net/Smart.php?id=ftvtaiwan_twn
+華視,http://fm1077.serv00.net/Smart.php?id=ctshd_twn
+華藝綜合,http://fm1077.serv00.net/Smart.php?id=weishichinese_twn
+中天亞洲台,http://fm1077.serv00.net/Smart.php?id=ctiasia_twn
+中天娱樂,http://fm1077.serv00.net/Smart.php?id=ctient
+中天綜合,http://fm1077.serv00.net/Smart.php?id=ctizhonghe
+八大第一,http://fm1077.serv00.net/Smart.php?id=badafirst
+八大綜合,http://fm1077.serv00.net/Smart.php?id=badazhonghe
+中視,http://fm1077.serv00.net/Smart.php?id=zhongshihd_twn
+公視,http://fm1077.serv00.net/Smart.php?id=ctv_taiwan
+東森綜合,http://fm1077.serv00.net/Smart.php?id=ettvzhonghe
+TVBS歡樂台,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
+TVBS HD,http://fm1077.serv00.net/Smart.php?id=tvbs
+民視新聞台,http://fm1077.serv00.net/Smart.php?id=ftvnew_taiwan
+台視新聞台,http://fm1077.serv00.net/Smart.php?id=ttvnews_twn
+東森新聞,http://fm1077.serv00.net/Smart.php?id=ettvnews
+中天新聞HD,http://fm1077.serv00.net/Smart.php?id=ctinews
+中視新聞台,http://fm1077.serv00.net/Smart.php?id=zhongshinews_twn
+TVBS新聞台,http://fm1077.serv00.net/Smart.php?id=tvbs_n
+寰宇新聞台,http://fm1077.serv00.net/Smart.php?id=huanyuxinwen_twn
+寰宇財經台,http://fm1077.serv00.net/Smart.php?id=huanyutaiwan_twn
+年代新聞台,http://fm1077.serv00.net/Smart.php?id=niandainews_twn
+MTV Live,http://fm1077.serv00.net/Smart.php?id=mtvhd_twn
+TLC旅遊生活,http://fm1077.serv00.net/Smart.php?id=tlc_twn
+亞洲旅遊台,http://fm1077.serv00.net/Smart.php?id=asiatravel_twn
+亞洲美食,http://fm1077.serv00.net/Smart.php?id=afc_twn
+AXN,http://fm1077.serv00.net/Smart.php?id=axn_twn
+CINEMAX,http://fm1077.serv00.net/Smart.php?id=cinemax_twn
+EYE戲劇,http://fm1077.serv00.net/Smart.php?id=eyetvxiju_twn
+EYE旅遊,http://fm1077.serv00.net/Smart.php?id=eyetvtravel_twn
+HBO,http://fm1077.serv00.net/Smart.php?id=hbohd_twn
+HBO Family,http://fm1077.serv00.net/Smart.php?id=fyi_twn
+好萊塢電影台,http://fm1077.serv00.net/Smart.php?id=hollywoodmovies_twn
+八大戲劇,http://fm1077.serv00.net/Smart.php?id=badadrama
+三立戲劇台,http://fm1077.serv00.net/Smart.php?id=sanlixiju_twn
+中視經典,http://fm1077.serv00.net/Smart.php?id=zhongshi_twn
+大愛一台,http://fm1077.serv00.net/Smart.php?id=daai_twn
+探索亞洲,http://fm1077.serv00.net/Smart.php?id=discoverytwn_twn
+探索動力,http://fm1077.serv00.net/Smart.php?id=discoveryturbo_twn
+國家地理,http://fm1077.serv00.net/Smart.php?id=natgeohd_twn
+野生動物,http://fm1077.serv00.net/Smart.php?id=natgeowild_twn
+動物星球,http://fm1077.serv00.net/Smart.php?id=animalplanet_twn
+時尚,http://fm1077.serv00.net/Smart.php?id=fashiontv_twn
+Discovery Asia,http://fm1077.serv00.net/Smart.php?id=discoverytwn_twn
+Discovery HD,http://fm1077.serv00.net/Smart.php?id=discoveryhd_twn
+東森戲劇,http://fm1077.serv00.net/Smart.php?id=ettvdrama
+東森洋片,http://fm1077.serv00.net/Smart.php?id=ettvwestern
+東森財經新聞,http://fm1077.serv00.net/Smart.php?id=ettvcaijing_twn
+東森電影,http://fm1077.serv00.net/Smart.php?id=ettvmovie
+緯來日本台,http://fm1077.serv00.net/Smart.php?id=videolandjapan
+緯來體育台,http://fm1077.serv00.net/Smart.php?id=videolandsport
+美亞電影,http://fm1077.serv00.net/Smart.php?id=meiyamovie_twn
+BBC World News,http://fm1077.serv00.net/Smart.php?id=bbcnews_twn
+Bloomberg News,http://fm1077.serv00.net/Smart.php?id=bloomberg_twn
+Fox News,http://fm1077.serv00.net/Smart.php?id=foxnews_twn
+阿里郎,http://fm1077.serv00.net/Smart.php?id=arirang_twn
+CN卡通,http://fm1077.serv00.net/Smart.php?id=momo1_twn
+靖天卡通台,http://fm1077.serv00.net/Smart.php?id=jingtiancartoon_twn
+靖天國際台,http://fm1077.serv00.net/Smart.php?id=jingtianintl_twn
+非凡新聞台,http://fm1077.serv00.net/Smart.php?id=feifannews_twn
+龍祥時代,http://fm1077.serv00.net/Smart.php?id=lungxiangtime_twn
+龍華偶像,http://fm1077.serv00.net/Smart.php?id=lunghuaidol_twn
+龍華戲劇,http://fm1077.serv00.net/Smart.php?id=lunghuaxiju_twn
+龍華洋片,http://fm1077.serv00.net/Smart.php?id=lunghuawestern_twn
+龍華經典,http://fm1077.serv00.net/Smart.php?id=lunghuajingdian_twn
+龍華電影,http://fm1077.serv00.net/Smart.php?id=xingwei_movie
+愛爾達影劇,http://fm1077.serv00.net/Smart.php?id=eltayingju_twn
+愛爾達體育 1,http://fm1077.serv00.net/Smart.php?id=eltasport_twn
+愛爾達體育 2,http://fm1077.serv00.net/Smart.php?id=eltasport2_twn
+愛爾達體育 3,http://fm1077.serv00.net/Smart.php?id=eltasport3_twn
+ELEVEN 1,http://fm1077.serv00.net/Smart.php?id=golfchannel_twn
+博斯網球,http://fm1077.serv00.net/Smart.php?id=bositennis_twn
+博斯運動1,http://fm1077.serv00.net/Smart.php?id=bosisport1_twn
+博斯運動2,http://fm1077.serv00.net/Smart.php?id=bosisport2_twn
+博斯高球1,http://fm1077.serv00.net/Smart.php?id=bosigolf1_twn
+博斯高球2,http://fm1077.serv00.net/Smart.php?id=bosigolf2_twn
+TV1,http://fm1077.serv00.net/Smart.php?id=TV1
+TV1(備用),http://fm1077.serv00.net/Smart.php?id=TV1_backup
+TV2,http://fm1077.serv00.net/Smart.php?id=TV2
+TV3,http://fm1077.serv00.net/Smart.php?id=TV3
+TV3(備用),http://fm1077.serv00.net/Smart.php?id=tv3_twn
+NTV7,http://fm1077.serv00.net/Smart.php?id=NTV7
+TV8,http://fm1077.serv00.net/Smart.php?id=TV8
+TV9,http://fm1077.serv00.net/Smart.php?id=TV9
+Warna,http://fm1077.serv00.net/Smart.php?id=Warna-O
+Warna(備用),http://fm1077.serv00.net/Smart.php?id=Warna
+Ria,http://fm1077.serv00.net/Smart.php?id=Ria-0
+Ria(備用),http://fm1077.serv00.net/Smart.php?id=Ria49
+Ria-3,http://fm1077.serv00.net/Smart.php?id=Ria_quanjia
+Al-Hijrah,http://fm1077.serv00.net/Smart.php?id=Alhijrah
+Al-Hijrah(備用),http://fm1077.serv00.net/Smart.php?id=Alhijrah_backup
+Awani,http://fm1077.serv00.net/Smart.php?id=Awani
+Bernama,http://fm1077.serv00.net/Smart.php?id=Bernama
+Prima,http://fm1077.serv00.net/Smart.php?id=Prima-0
+Prima(備用),http://fm1077.serv00.net/Smart.php?id=Prima49
+Ceria,http://fm1077.serv00.net/Smart.php?id=Ceria
+Astro MTV,http://fm1077.serv00.net/Smart.php?id=AstroMTV
+Mecca Live HD,http://fm1077.serv00.net/Smart.php?id=quran_mido
+Madinah HD,http://fm1077.serv00.net/Smart.php?id=sunnah_mido
+Oasis,http://fm1077.serv00.net/Smart.php?id=Oasis
+HBO HD,http://fm1077.serv00.net/Smart.php?id=Hbo
+HBO Signature,http://fm1077.serv00.net/Smart.php?id=Hbosignature
+HBO Hits,http://fm1077.serv00.net/Smart.php?id=Hbohits
+NatGeo Wild HD,http://fm1077.serv00.net/Smart.php?id=Natgeowild
+Cartoon Network,http://fm1077.serv00.net/Smart.php?id=Cn
+Nickelodeon,http://fm1077.serv00.net/Smart.php?id=Nickelodeon
+Nick Jr,http://fm1077.serv00.net/Smart.php?id=Nickjr
+Citra,http://fm1077.serv00.net/Smart.php?id=Citra
+Sensasi,http://fm1077.serv00.net/Smart.php?id=Sensasi
+Aura,http://fm1077.serv00.net/Smart.php?id=Aura
+Rania,http://fm1077.serv00.net/Smart.php?id=Rania
+Boo,http://fm1077.serv00.net/Smart.php?id=Boo
+Awesome TV,http://fm1077.serv00.net/Smart.php?id=Awesome_mega
+Sony HD,http://fm1077.serv00.net/Smart.php?id=SetOne
+KBS World,http://fm1077.serv00.net/Smart.php?id=KBS
+TvN,http://fm1077.serv00.net/Smart.php?id=TVN
+Animal Planet (Eng),http://fm1077.serv00.net/Smart.php?id=AnimalPlanet
+Animal_Planet,http://fm1077.serv00.net/Smart.php?id=animalplanet_twn
+Asia Travel,http://fm1077.serv00.net/Smart.php?id=asiatravel_twn
+BBC Earth HD,http://fm1077.serv00.net/Smart.php?id=bbcearth_twn
+BBC Earth Lifestyle,http://fm1077.serv00.net/Smart.php?id=bbclifestyle_twn
+CI,http://fm1077.serv00.net/Smart.php?id=ci_twn
+Discovery Asia,http://fm1077.serv00.net/Smart.php?id=discoverytwn_twn
+Discovery HD,http://fm1077.serv00.net/Smart.php?id=discoveryhd_twn
+Fashion TV,http://fm1077.serv00.net/Smart.php?id=fashiontv_twn
+Foodnetwork Hd,http://fm1077.serv00.net/Smart.php?id=Foodnetwork_mega
+HGTV,http://fm1077.serv00.net/Smart.php?id=HGTV
+History,http://fm1077.serv00.net/Smart.php?id=History
+MTV Live,http://fm1077.serv00.net/Smart.php?id=mtvhd_twn
+NatGeo HD,http://fm1077.serv00.net/Smart.php?id=Natgeo
+NatGeo Wild HD,http://fm1077.serv00.net/Smart.php?id=Natgeowild
+NatGeo_Wild HD,http://fm1077.serv00.net/Smart.php?id=natgeowild_twn
+Natgeo_HD,http://fm1077.serv00.net/Smart.php?id=natgeohd_twn
+TLC,http://fm1077.serv00.net/Smart.php?id=Tlc
+TLC Asia,http://fm1077.serv00.net/Smart.php?id=tlc_twn
+亞洲美食,http://fm1077.serv00.net/Smart.php?id=afc_twn
+美食星球,http://fm1077.serv00.net/Smart.php?id=foodplanet_twn
+ABC News,http://fm1077.serv00.net/Smart.php?id=abcnews_glo
+Al-Jazeera,http://fm1077.serv00.net/Smart.php?id=aljazeera_twn
+BBC World News,http://fm1077.serv00.net/Smart.php?id=Bbcnews
+BBC World News,http://fm1077.serv00.net/Smart.php?id=bbcnews_twn
+Bloomberg News,http://fm1077.serv00.net/Smart.php?id=bloomberg_twn
+CBS HD,http://fm1077.serv00.net/Smart.php?id=cbshd_glo
+CBSN HD,http://fm1077.serv00.net/Smart.php?id=cbsn_glo
+CGTN,http://fm1077.serv00.net/Smart.php?id=CGTN
+CNA,http://fm1077.serv00.net/Smart.php?id=cna
+CNBC,http://fm1077.serv00.net/Smart.php?id=cnbc_twn
+CNN International,http://fm1077.serv00.net/Smart.php?id=Cnn
+CNN(備用),http://fm1077.serv00.net/Smart.php?id=cnn_twn
+DW (Deutsch),http://fm1077.serv00.net/Smart.php?id=dw_twn
+Fox News,http://fm1077.serv00.net/Smart.php?id=foxnews_twn
+France 24,http://fm1077.serv00.net/Smart.php?id=france24_twn
+CBBC,http://fm1077.serv00.net/Smart.php?id=cbbc_antik
+CBeebies,http://fm1077.serv00.net/Smart.php?id=Cbeebies
 
-中天新闻,http://23.94.14.225:8848/live.m3u8?c=14
-TVBS新闻,http://23.94.14.225:8848/live.m3u8?c=1
-民视新闻,http://23.94.14.225:8848/live.m3u8?c=2
-三立新闻,http://23.94.14.225:8848/live.m3u8?c=3
-三立 iNEWS,http://23.94.14.225:8848/live.m3u8?c=4
-东森新闻,http://23.94.14.225:8848/live.m3u8?c=5
-中视新闻,http://23.94.14.225:8848/live.m3u8?c=8
-台视新闻,http://23.94.14.225:8848/live.m3u8?c=9
-寰宇新闻,http://23.94.14.225:8848/live.m3u8?c=10
-镜新闻,http://23.94.14.225:8848/live.m3u8?c=11
-公视新闻,http://23.94.14.225:8848/live.m3u8?c=13
-中天亚洲,http://194.87.101.118/live.m3u8?c=3
-台视新闻,http://194.87.101.118/live.m3u8?c=4
-TVBS新闻,http://194.87.101.118/live.m3u8?c=5
-中视新闻,http://194.87.101.118/live.m3u8?c=6
-中天新闻,http://194.87.101.118/live.m3u8?c=7
-公视新闻,http://194.87.101.118/live.m3u8?c=8
-镜新闻,http://194.87.101.118/live.m3u8?c=10
-民视新闻,http://194.87.101.118/live.m3u8?c=11
-三立新闻,http://194.87.101.118/live.m3u8?c=12
-华视新闻,http://194.87.101.118/live.m3u8?c=13
+🦄台湾fm1077,#genre#
+台视,https://fm1077.serv00.net/anbo/index.php?id=27
+台视,https://fm1077.serv00.net/anbo/index.php?id=312
+台视,https://fm1077.serv00.net/anbo/index.php?id=326
+台视,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv066
+三立都會,https://fm1077.serv00.net/anbo/index.php?id=1001
+三立都會,https://fm1077.serv00.net/anbo/index.php?id=2435
+三立都會,https://fm1077.serv00.net/anbo/index.php?id=38
+三立国際,https://fm1077.serv00.net/anbo/index.php?id=2285
+三立台湾,https://fm1077.serv00.net/anbo/index.php?id=21
+三立台湾,https://fm1077.serv00.net/anbo/index.php?id=2436
+三立台湾,https://fm1077.serv00.net/anbo/index.php?id=35
+三立综合,https://fm1077.serv00.net/anbo/index.php?id=2815
+三立综合,https://fm1077.serv00.net/anbo/index.php?id=315
+民视,https://fm1077.serv00.net/anbo/index.php?id=2805
+民视,https://fm1077.serv00.net/anbo/index.php?id=336
+民视,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv002
+民视,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv155
+民视第一台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv003
+民视台湾,https://fm1077.serv00.net/anbo/index.php?id=36
+民视台湾台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv001
+民视台湾台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv156
+华视,https://fm1077.serv00.net/anbo/index.php?id=2282
+华视,https://fm1077.serv00.net/anbo/index.php?id=32
+华视,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv041
+中视,https://fm1077.serv00.net/anbo/index.php?id=1041
+中视,https://fm1077.serv00.net/anbo/index.php?id=333
+中视,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv040
+中视经典,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv080
+中视菁采,https://fm1077.serv00.net/anbo/index.php?id=74
+中视菁采,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv064
+中视經典,https://fm1077.serv00.net/anbo/index.php?id=185
+中视經典綜藝,https://fm1077.serv00.net/anbo/index.php?id=2773
+中天娱乐,https://fm1077.serv00.net/anbo/index.php?id=324
+中天综合,https://fm1077.serv00.net/anbo/index.php?id=3072
+中天综合,https://fm1077.serv00.net/anbo/index.php?id=54
+高點综合,https://fm1077.serv00.net/anbo/index.php?id=99
+公视,https://fm1077.serv00.net/anbo/index.php?id=28
+公视,https://fm1077.serv00.net/anbo/index.php?id=86
+公视3台,https://fm1077.serv00.net/anbo/index.php?id=1340
+八大第一,https://fm1077.serv00.net/anbo/index.php?id=318
+八大精彩,https://fm1077.serv00.net/anbo/index.php?id=1024
+八大精彩台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv034
+八大戏剧,https://fm1077.serv00.net/anbo/index.php?id=81
+八大娱乐,https://fm1077.serv00.net/anbo/index.php?id=105
+八大综合,https://fm1077.serv00.net/anbo/index.php?id=2286
+八大综艺台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv039
+靖天综合,https://fm1077.serv00.net/anbo/index.php?id=308
+靖天综合,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv046
+客家电视,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv043
+客家电视,https://fm1077.serv00.net/anbo/index.php?id=76
+TVBS欢乐台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv068
+TVBS歡樂,https://fm1077.serv00.net/anbo/index.php?id=40
+TVBS精采,https://fm1077.serv00.net/anbo/index.php?id=117
+TVBS精采,https://fm1077.serv00.net/anbo/index.php?id=66
+TVBS精采台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv067
+大立電视,https://fm1077.serv00.net/anbo/index.php?id=1593
+东森综合,https://fm1077.serv00.net/anbo/index.php?id=372
+东森超视,https://fm1077.serv00.net/anbo/index.php?id=80
+第一名電视,https://fm1077.serv00.net/anbo/index.php?id=216
+緯來精彩,https://fm1077.serv00.net/anbo/index.php?id=2280
+緯來综合,https://fm1077.serv00.net/anbo/index.php?id=2726
+信大電视,https://fm1077.serv00.net/anbo/index.php?id=422
+ELTA娱乐台,https://fm1077.serv00.net/anbo/index.php?id=351
+ELTA综合,https://fm1077.serv00.net/anbo/index.php?id=1137
+JET综合,https://fm1077.serv00.net/anbo/index.php?id=41
+TaiwanPlus,https://fm1077.serv00.net/anbo/index.php?id=327
+國興衛视,https://fm1077.serv00.net/anbo/index.php?id=65
+海豚综合,https://fm1077.serv00.net/anbo/index.php?id=262
+韓國娱乐,https://fm1077.serv00.net/anbo/index.php?id=73
+民视综艺,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv004
+年代much,https://fm1077.serv00.net/anbo/index.php?id=1359
+緯來日本,https://fm1077.serv00.net/anbo/index.php?id=337
+緯來日本,https://fm1077.serv00.net/anbo/index.php?id=46
+靖天国际,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv063
+靖天国际,https://fm1077.serv00.net/anbo/index.php?id=345
+靖天欢乐,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv054
+靖天欢乐,https://fm1077.serv00.net/anbo/index.php?id=51
+靖天日本,https://fm1077.serv00.net/anbo/index.php?id=108
+靖天日,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv047
+TVBS HD,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv073
+TVBS,https://fm1077.serv00.net/anbo/index.php?id=16
+TVBS,https://fm1077.serv00.net/anbo/index.php?id=2273
+好消息,https://fm1077.serv00.net/anbo/index.php?id=104
+好消息,https://fm1077.serv00.net/litv.php?id=litv-ftv16
+好消息2,https://fm1077.serv00.net/anbo/index.php?id=363
+好消息2台,https://fm1077.serv00.net/litv.php?id=litv-ftv17
+大愛一臺,https://fm1077.serv00.net/anbo/index.php?id=11
+霹靂台湾,https://fm1077.serv00.net/anbo/index.php?id=1339
+大陸尋奇,https://fm1077.serv00.net/anbo/index.php?id=102
+猪哥亮歌厅秀,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv006
+猪哥會社,https://fm1077.serv00.net/anbo/index.php?id=103
+猪哥亮歌厅秀,https://fm1077.serv00.net/anbo/index.php?id=75
+萬秀豬王,https://fm1077.serv00.net/anbo/index.php?id=2978
+TVBS新闻,https://fm1077.serv00.net/anbo/index.php?id=2
+TVBS新闻,https://fm1077.serv00.net/anbo/index.php?id=2396
+TVBS新闻,https://fm1077.serv00.net/anbo/index.php?id=2736
+TVBS新闻,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv072
+东森新闻,https://fm1077.serv00.net/anbo/index.php?id=1025
+东森新闻,https://fm1077.serv00.net/anbo/index.php?id=1358
+东森新闻,https://fm1077.serv00.net/anbo/index.php?id=2393
+东森新闻,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv152
+东森新闻4,https://fm1077.serv00.net/anbo/index.php?id=2766
+非凡商业,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv048
+非凡新闻,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv010
+公视新闻,https://fm1077.serv00.net/anbo/index.php?id=20
+华视新闻,https://fm1077.serv00.net/anbo/index.php?id=1171
+华视新闻,https://fm1077.serv00.net/anbo/index.php?id=2424
+华视新闻,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv052
+民视新闻,https://fm1077.serv00.net/anbo/index.php?id=13
+民视新闻,https://fm1077.serv00.net/anbo/index.php?id=2395
+民视新闻,https://fm1077.serv00.net/litv.php?id=litv-ftv13
+中视新闻,https://fm1077.serv00.net/anbo/index.php?id=2400
+中视新闻,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv074
+中天新闻,https://fm1077.serv00.net/anbo/index.php?id=2420
+中天新闻,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv009
+中天新闻2台,https://fm1077.serv00.net/anbo/index.php?id=152
+中天亚洲,https://fm1077.serv00.net/anbo/index.php?id=2277
+中天亚洲,https://fm1077.serv00.net/anbo/index.php?id=322
+中天亚洲台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv109
+寰宇財經,https://fm1077.serv00.net/anbo/index.php?id=2536
+寰宇台湾,https://fm1077.serv00.net/anbo/index.php?id=87
+寰宇新闻,https://fm1077.serv00.net/anbo/index.php?id=2401
+寰宇新闻,https://fm1077.serv00.net/anbo/index.php?id=304
+寰宇新闻台,https://fm1077.serv00.net/litv.php?id=litv-longturn14
+寰宇新闻台湾台,https://fm1077.serv00.net/litv.php?id=litv-longturn15
+年代新闻,https://fm1077.serv00.net/anbo/index.php?id=1099
+年代新闻,https://fm1077.serv00.net/anbo/index.php?id=2719
+三立iNEWS,https://fm1077.serv00.net/anbo/index.php?id=6
+三立新闻,https://fm1077.serv00.net/anbo/index.php?id=2392
+三立新闻,https://fm1077.serv00.net/anbo/index.php?id=2794
+三立新闻,https://fm1077.serv00.net/anbo/index.php?id=43
+三立新闻+,https://fm1077.serv00.net/anbo/index.php?id=320
+台视财经,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv056
+台视財經,https://fm1077.serv00.net/anbo/index.php?id=300
+台视新闻,https://fm1077.serv00.net/anbo/index.php?id=1
+台视新闻,https://fm1077.serv00.net/anbo/index.php?id=2399
+台视新闻,https://fm1077.serv00.net/litv.php?id=4gtvhttp://192.168.1.16:2020/#-4gtv051
+台湾地震監视,https://fm1077.serv00.net/anbo/index.php?id=2637
+靖天资讯,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv065
+靖天资讯,https://fm1077.serv00.net/anbo/index.php?id=49
+镜新闻,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv075
+镜新闻mnews,https://fm1077.serv00.net/anbo/index.php?id=463
+壹新闻,https://fm1077.serv00.net/anbo/index.php?id=2777
+壹新闻,https://fm1077.serv00.net/anbo/index.php?id=494
+美国之音,https://fm1077.serv00.net/litv.php?id=litv-ftv03
+Z頻道,https://fm1077.serv00.net/anbo/index.php?id=1130
+阿里郎,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv079
+CBN News,https://fm1077.serv00.net/anbo/index.php?id=499
+半岛新闻,https://fm1077.serv00.net/litv.php?id=litv-ftv10
+国会频道1,https://fm1077.serv00.net/anbo/index.php?id=2614
+国会频道1,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv084
+国会频道2,https://fm1077.serv00.net/anbo/index.php?id=420
+国会频道2,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv085
+AMC电影台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv017
+AXN台湾,https://fm1077.serv00.net/anbo/index.php?id=2816
+AXN亚洲,https://fm1077.serv00.net/anbo/index.php?id=1066
+三立戏剧,https://fm1077.serv00.net/anbo/index.php?id=2819
+三立戏剧,https://fm1077.serv00.net/anbo/index.php?id=64
+CATCHPLAY电影台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv076
+CineMAX,https://fm1077.serv00.net/anbo/index.php?id=346
+EYE戏剧,https://fm1077.serv00.net/anbo/index.php?id=191
+GLOBETROTTER,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv016
+HBO HD,https://fm1077.serv00.net/anbo/index.php?id=2823
+HBO HD,https://fm1077.serv00.net/anbo/index.php?id=332
+HBO Hits,https://fm1077.serv00.net/anbo/index.php?id=330
+HBOSignature,https://fm1077.serv00.net/anbo/index.php?id=2824
+HBOSignature,https://fm1077.serv00.net/anbo/index.php?id=329
+Trill恐怖电影,https://fm1077.serv00.net/anbo/index.php?id=18
+爱尔达影劇,https://fm1077.serv00.net/anbo/index.php?id=500
+爱尔达娱乐,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv070
+爱放动漫,https://fm1077.serv00.net/litv.php?id=litv-ftv15
+采昌影剧,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv049
+采昌影劇,https://fm1077.serv00.net/anbo/index.php?id=2804
+采昌影劇,https://fm1077.serv00.net/anbo/index.php?id=62
+东森电影,https://fm1077.serv00.net/anbo/index.php?id=2720
+东森电影,https://fm1077.serv00.net/anbo/index.php?id=350
+东森戏剧,https://fm1077.serv00.net/anbo/index.php?id=2825
+东森戏剧,https://fm1077.serv00.net/anbo/index.php?id=321
+东森洋片,https://fm1077.serv00.net/anbo/index.php?id=1128
+公视戏剧,https://fm1077.serv00.net/anbo/index.php?id=69
+公视戏剧,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv042
+靖天电影,https://fm1077.serv00.net/anbo/index.php?id=110
+靖天电影台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv061
+靖天戏剧,https://fm1077.serv00.net/anbo/index.php?id=109
+靖天戏剧台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv058
+靖天映画,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv055
+靖天映畫,https://fm1077.serv00.net/anbo/index.php?id=349
+靖洋戏剧,https://fm1077.serv00.net/anbo/index.php?id=319
+靖洋戏剧台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv045
+龙华电影,https://fm1077.serv00.net/anbo/index.php?id=311
+龙华电影,https://fm1077.serv00.net/litv.php?id=litv-longturn03
+龙华经典,https://fm1077.serv00.net/litv.php?id=litv-longturn21
+龙华經典,https://fm1077.serv00.net/anbo/index.php?id=100
+龙华卡通,https://fm1077.serv00.net/litv.php?id=litv-longturn01
+龙华偶像,https://fm1077.serv00.net/anbo/index.php?id=385
+龙华偶像,https://fm1077.serv00.net/litv.php?id=litv-longturn12
+龙华日韩,https://fm1077.serv00.net/litv.php?id=litv-longturn11
+龙华日韓,https://fm1077.serv00.net/anbo/index.php?id=382
+龙华戏剧,https://fm1077.serv00.net/anbo/index.php?id=2796
+龙华戏剧,https://fm1077.serv00.net/anbo/index.php?id=365
+龙华戏剧,https://fm1077.serv00.net/litv.php?id=litv-longturn18
+龙华洋片,https://fm1077.serv00.net/anbo/index.php?id=341
+龍翔時代,https://fm1077.serv00.net/anbo/index.php?id=373
+好萊塢电影,https://fm1077.serv00.net/anbo/index.php?id=37
+华納电影,https://fm1077.serv00.net/anbo/index.php?id=83
+台湾戏剧台,https://fm1077.serv00.net/litv.php?id=litv-longturn22
+天映經典,https://fm1077.serv00.net/anbo/index.php?id=2289
+緯來电影,https://fm1077.serv00.net/anbo/index.php?id=2728
+緯來戏剧,https://fm1077.serv00.net/anbo/index.php?id=2727
+緯來戏剧,https://fm1077.serv00.net/anbo/index.php?id=339
+緯來育樂,https://fm1077.serv00.net/anbo/index.php?id=2772
+緯來育樂,https://fm1077.serv00.net/anbo/index.php?id=338
+影迷數位电影,https://fm1077.serv00.net/anbo/index.php?id=2800
+影迷數位电影,https://fm1077.serv00.net/anbo/index.php?id=497
+影迷數位电影台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv011
+壹电影,https://fm1077.serv00.net/anbo/index.php?id=2284
+美亞电影,https://fm1077.serv00.net/anbo/index.php?id=375
+民视影剧,https://fm1077.serv00.net/litv.php?id=litv-ftv09
+MEZZO LIVE,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv083
+Smart知识台,https://fm1077.serv00.net/litv.php?id=litv-longturn19
+GinxTV,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv053
+东森亚洲,https://fm1077.serv00.net/anbo/index.php?id=3
+古典音乐台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv059
+国际财经,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv104
+飢餓遊戲,https://fm1077.serv00.net/anbo/index.php?id=264
+緯來體育,https://fm1077.serv00.net/anbo/index.php?id=118
+緯來體育,https://fm1077.serv00.net/anbo/index.php?id=2732
+TRACE SPORTS STARS,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv077
+TRACE URBAN,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv082
+Eleven Sport 1,https://fm1077.serv00.net/anbo/index.php?id=3224
+Eleven Sport 2,https://fm1077.serv00.net/anbo/index.php?id=301
+ELTA體育1,https://fm1077.serv00.net/anbo/index.php?id=192
+ELTA體育1,https://fm1077.serv00.net/anbo/index.php?id=2729
+ELTA體育2,https://fm1077.serv00.net/anbo/index.php?id=193
+ELTA體育2,https://fm1077.serv00.net/anbo/index.php?id=2730
+ELTA體育3,https://fm1077.serv00.net/anbo/index.php?id=194
+ELTA體育3,https://fm1077.serv00.net/anbo/index.php?id=2731
+ELTA體育3台,https://fm1077.serv00.net/anbo/index.php?id=2722
+ELTA體育4,https://fm1077.serv00.net/anbo/index.php?id=2820
+智林体育台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv101
+博斯高球1,https://fm1077.serv00.net/litv.php?id=litv-longturn05
+博斯高球2,https://fm1077.serv00.net/litv.php?id=litv-longturn06
+博斯魅力,https://fm1077.serv00.net/litv.php?id=litv-longturn04
+博斯网球,https://fm1077.serv00.net/litv.php?id=litv-longturn09
+博斯无限,https://fm1077.serv00.net/litv.php?id=litv-longturn10
+博斯无限2,https://fm1077.serv00.net/litv.php?id=litv-longturn13
+博斯無限,https://fm1077.serv00.net/anbo/index.php?id=2797
+博斯無限,https://fm1077.serv00.net/anbo/index.php?id=381
+博斯無限2,https://fm1077.serv00.net/anbo/index.php?id=2798
+博斯無限2,https://fm1077.serv00.net/anbo/index.php?id=426
+博斯运动1,https://fm1077.serv00.net/anbo/index.php?id=379
+博斯运动1,https://fm1077.serv00.net/litv.php?id=litv-longturn07
+博斯运动2,https://fm1077.serv00.net/anbo/index.php?id=380
+博斯运动2,https://fm1077.serv00.net/litv.php?id=litv-longturn08
+亚洲旅游,https://fm1077.serv00.net/anbo/index.php?id=2299
+亚洲旅游,https://fm1077.serv00.net/litv.php?id=litv-longturn17
+探索EVE,https://fm1077.serv00.net/anbo/index.php?id=1036
+探索動力DMAX,https://fm1077.serv00.net/anbo/index.php?id=335
+探索科學,https://fm1077.serv00.net/anbo/index.php?id=343
+探索頻道,https://fm1077.serv00.net/anbo/index.php?id=1035
+探索頻道,https://fm1077.serv00.net/anbo/index.php?id=2817
+探索亚洲,https://fm1077.serv00.net/anbo/index.php?id=306
+EYE旅遊,https://fm1077.serv00.net/anbo/index.php?id=1494
+Globetrotter 環遊旅行家,https://fm1077.serv00.net/anbo/index.php?id=114
+國家野生（英）,https://fm1077.serv00.net/anbo/index.php?id=1038
+民视旅游,https://fm1077.serv00.net/litv.php?id=litv-ftv07
+動物星球,https://fm1077.serv00.net/anbo/index.php?id=367
+美食星球,https://fm1077.serv00.net/anbo/index.php?id=1360
+美食星球,https://fm1077.serv00.net/anbo/index.php?id=3073
+生活英语台,https://fm1077.serv00.net/litv.php?id=litv-longturn20
+时尚运动X,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv014
+视納华仁紀實,https://fm1077.serv00.net/anbo/index.php?id=91
+视納华仁紀實頻道,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv013
+达文西频道,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv018
 
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-DW,http://61.221.215.25:8800/hls/1/index.m3u8
-NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-49号,http://61.221.215.25:8800/hls/49/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+🦄台湾wanjia,#genre#
+台视,http://wanjiatv.net/litv.php?id=4gtv-4gtv066
+民視,http://wanjiatv.net/litv.php?id=4gtv-4gtv155
+民視,http://wanjiatv.net/litv.php?id=4gtv-4gtv002
+民視第一台,http://wanjiatv.net/litv.php?id=4gtv-4gtv003
+民視台灣台,http://wanjiatv.net/litv.php?id=4gtv-4gtv156
+民视台湾台,http://wanjiatv.net/litv.php?id=4gtv-4gtv001
+華視,http://wanjiatv.net/litv.php?id=4gtv-4gtv041
+民視台灣台,http://wanjiatv.net/litv.php?id=4gtv-4gtv001
+民视第一,http://wanjiatv.net/litv.php?id=4gtv-4gtv003
+中视,http://wanjiatv.net/litv.php?id=4gtv-4gtv040
+中视经典,http://wanjiatv.net/litv.php?id=4gtv-4gtv080
+中视精彩,http://wanjiatv.net/litv.php?id=4gtv-4gtv064
+八大精彩台,http://wanjiatv.net/litv.php?id=4gtv-4gtv034
+八大綜藝台,http://wanjiatv.net/litv.php?id=4gtv-4gtv039
+TVBS精彩,http://wanjiatv.net/litv.php?id=4gtv-4gtv067
+ELTA娱乐,http://wanjiatv.net/litv.php?id=4gtv-4gtv070
+TVBS 欢乐,http://wanjiatv.net/litv.php?id=4gtv-4gtv068
+tvbs,http://wanjiatv.net/litv.php?id=4gtv-4gtv073
+客家,http://wanjiatv.net/litv.php?id=4gtv-4gtv043
+靖天综合,http://wanjiatv.net/litv.php?id=4gtv-4gtv046
+愛爾達娛樂,http://wanjiatv.net/litv.php?id=4gtv-4gtv070
+民視綜藝台,http://wanjiatv.net/litv.php?id=4gtv-4gtv004
+靖天歡樂台,http://wanjiatv.net/litv.php?id=4gtv-4gtv054
+靖天綜合台,http://wanjiatv.net/litv.php?id=4gtv-4gtv046
+靖天日本台,http://wanjiatv.net/litv.php?id=4gtv-4gtv047
+猪哥亮歌厅秀,http://wanjiatv.net/litv.php?id=4gtv-4gtv006
+台视新闻,http://wanjiatv.net/litv.php?id=4gtv-4gtv051
+台視財經,http://wanjiatv.net/litv.php?id=4gtv-4gtv056
+TVBS新闻,http://wanjiatv.net/litv.php?id=4gtv-4gtv072
+民視新聞台,http://wanjiatv.net/litv.php?id=litv-ftv13
+中視新聞,http://wanjiatv.net/litv.php?id=4gtv-4gtv074
+华视新闻,http://wanjiatv.net/litv.php?id=4gtv-4gtv052
+华视新闻,http://wanjiatv.net/litv.php?id=4gtv-4gtv041
+中天新聞,http://wanjiatv.net/litv.php?id=4gtv-4gtv009
+非凡新聞,http://wanjiatv.net/litv.php?id=4gtv-4gtv010
+非凡商业,http://wanjiatv.net/litv.php?id=4gtv-4gtv048
+中天新闻,http://wanjiatv.net/litv.php?id=4gtv-4gtv009
+非凡新闻,http://wanjiatv.net/litv.php?id=4gtv-4gtv010
+寰宇新聞台,http://wanjiatv.net/litv.php?id=litv-longturn14
+寰宇新聞台灣台,http://wanjiatv.net/litv.php?id=litv-longturn15
+影迷數位電影台,http://wanjiatv.net/litv.php?id=4gtv-4gtv011
+視納華仁紀實頻道,http://wanjiatv.net/litv.php?id=4gtv-4gtv013
+時尚運動,http://wanjiatv.net/litv.php?id=4gtv-4gtv014
+GLOBETROTTER,http://wanjiatv.net/litv.php?id=4gtv-4gtv016
+amc電影台,http://wanjiatv.net/litv.php?id=4gtv-4gtv017
+達文西頻道,http://wanjiatv.net/litv.php?id=4gtv-4gtv018
+公視戲劇,http://wanjiatv.net/litv.php?id=4gtv-4gtv042
+靖天日本,http://wanjiatv.net/litv.php?id=4gtv-4gtv047
+靖天卡通台,http://wanjiatv.net/litv.php?id=4gtv-4gtv044
+靖天戲劇台,http://wanjiatv.net/litv.php?id=4gtv-4gtv045
+非凡商業,http://wanjiatv.net/litv.php?id=4gtv-4gtv048
+采昌戲劇,http://wanjiatv.net/litv.php?id=4gtv-4gtv049
+GinxTV,http://wanjiatv.net/litv.php?id=4gtv-4gtv053
+靖天映畫,http://wanjiatv.net/litv.php?id=4gtv-4gtv055
+靖洋卡通台,http://wanjiatv.net/litv.php?id=4gtv-4gtv057
+靖天戲劇台,http://wanjiatv.net/litv.php?id=4gtv-4gtv058
+古典音樂台,http://wanjiatv.net/litv.php?id=4gtv-4gtv059
+靖天電影台,http://wanjiatv.net/litv.php?id=4gtv-4gtv061
+靖天育樂台,http://wanjiatv.net/litv.php?id=4gtv-4gtv062
+靖天國際台,http://wanjiatv.net/litv.php?id=4gtv-4gtv063
+靖天資訊台,http://wanjiatv.net/litv.php?id=4gtv-4gtv065
+鏡新聞,http://wanjiatv.net/litv.php?id=4gtv-4gtv075
+CATCHPLAY電影台,http://wanjiatv.net/litv.php?id=4gtv-4gtv076
+TRACE SPORTS STARS,http://wanjiatv.net/litv.php?id=4gtv-4gtv077
+阿里郎,http://wanjiatv.net/litv.php?id=4gtv-4gtv079
+TRACE URBAN,http://wanjiatv.net/litv.php?id=4gtv-4gtv082
+MEZZO LIVE,http://wanjiatv.net/litv.php?id=4gtv-4gtv083
+國會頻道1,http://wanjiatv.net/litv.php?id=4gtv-4gtv084
+國會頻道2,http://wanjiatv.net/litv.php?id=4gtv-4gtv085
+智林體育台,http://wanjiatv.net/litv.php?id=4gtv-4gtv101
+國際財經,http://wanjiatv.net/litv.php?id=4gtv-4gtv104
+第1商業台,http://wanjiatv.net/litv.php?id=4gtv-4gtv109
+東森新聞,http://wanjiatv.net/litv.php?id=4gtv-4gtv152
+東森財經新聞,http://wanjiatv.net/litv.php?id=4gtv-4gtv153
+美國之音,http://wanjiatv.net/litv.php?id=litv-ftv03
+民視旅遊,http://wanjiatv.net/litv.php?id=litv-ftv07
+民視影劇,http://wanjiatv.net/litv.php?id=litv-ftv09
+半島新聞,http://wanjiatv.net/litv.php?id=litv-ftv10
+愛放動漫,http://wanjiatv.net/litv.php?id=litv-ftv15
+好消息,http://wanjiatv.net/litv.php?id=litv-ftv16
+好消息2台,http://wanjiatv.net/litv.php?id=litv-ftv17
+龍華卡通,http://wanjiatv.net/litv.php?id=litv-longturn01
+龍華電影,http://wanjiatv.net/litv.php?id=litv-longturn03
+博斯魅力,http://wanjiatv.net/litv.php?id=litv-longturn04
+博斯高球1,http://wanjiatv.net/litv.php?id=litv-longturn05
+博斯高球2,http://wanjiatv.net/litv.php?id=litv-longturn06
+博斯運動1,http://wanjiatv.net/litv.php?id=litv-longturn07
+博斯運動2,http://wanjiatv.net/litv.php?id=litv-longturn08
+博斯網球,http://wanjiatv.net/litv.php?id=litv-longturn09
+博斯無限,http://wanjiatv.net/litv.php?id=litv-longturn10
+龍華日韓,http://wanjiatv.net/litv.php?id=litv-longturn11
+龍華偶像,http://wanjiatv.net/litv.php?id=litv-longturn12
+博斯無限2,http://wanjiatv.net/litv.php?id=litv-longturn13
+亞洲旅遊台,http://wanjiatv.net/litv.php?id=litv-longturn17
+龍華戲劇,http://wanjiatv.net/litv.php?id=litv-longturn18
+Smart知識台,http://wanjiatv.net/litv.php?id=litv-longturn19
+生活英語台,http://wanjiatv.net/litv.php?id=litv-longturn20
+龍華經典,http://wanjiatv.net/litv.php?id=litv-longturn21
+台灣戲劇台,http://wanjiatv.net/litv.php?id=litv-longturn22
+FGM,http://wanjiatv.net/litv.php?id=4gtv-4gtv011
+达芬奇,http://wanjiatv.net/litv.php?id=4gtv-4gtv018
+八大精彩,http://wanjiatv.net/litv.php?id=4gtv-4gtv034
+未知,http://wanjiatv.net/litv.php?id=4gtv-4gtv039
+公视戏剧,http://wanjiatv.net/litv.php?id=4gtv-4gtv042
+靖天卡通,http://wanjiatv.net/litv.php?id=4gtv-4gtv044
+靖洋戏剧台,http://wanjiatv.net/litv.php?id=4gtv-4gtv045
+采昌,http://wanjiatv.net/litv.php?id=4gtv-4gtv049
+游戏,http://wanjiatv.net/litv.php?id=4gtv-4gtv053
+靖天欢乐,http://wanjiatv.net/litv.php?id=4gtv-4gtv054
+靖天映画,http://wanjiatv.net/litv.php?id=4gtv-4gtv055
+靖洋卡通,http://wanjiatv.net/litv.php?id=4gtv-4gtv057
+靖天戏剧,http://wanjiatv.net/litv.php?id=4gtv-4gtv058
+古典音乐,http://wanjiatv.net/litv.php?id=4gtv-4gtv059
+靖天电影,http://wanjiatv.net/litv.php?id=4gtv-4gtv061
+靖天娱乐,http://wanjiatv.net/litv.php?id=4gtv-4gtv062
+未知2,http://wanjiatv.net/litv.php?id=4gtv-4gtv063
+靖天资讯,http://wanjiatv.net/litv.php?id=4gtv-4gtv065
+Catchplay,http://wanjiatv.net/litv.php?id=4gtv-4gtv076
+体育,http://wanjiatv.net/litv.php?id=4gtv-4gtv077
+arirang,http://wanjiatv.net/litv.php?id=4gtv-4gtv079
+TRACE,http://wanjiatv.net/litv.php?id=4gtv-4gtv082
+MEZZO,http://wanjiatv.net/litv.php?id=4gtv-4gtv083
+国会频道,http://wanjiatv.net/litv.php?id=4gtv-4gtv085
+国会频道1,http://wanjiatv.net/litv.php?id=4gtv-4gtv084
 
-纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-好消息综合,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
-👉此处以下频道需要湾湾节点,#genre#
-靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
-动物世界 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-东森新闻,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
-年代新闻,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-镜新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-亚洲经典,http://goldfm.cn:8000/goldfm
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
 🦄独家线路🐯,#genre#
 CCTV1,http://148.135.93.213:81/live.php?id=CCTV1
