@@ -2270,14 +2270,20 @@ CGTN,http://dp.sxtv.top:88/live/bestv.php?id=cgtn
 经典电影,http://hjf.sihanlin.top:9901/tsfile/live/1116_1.m3u8
 
 🐉四川频道,#genre#
-四川文化旅游,http://dsk.cc/sctv/sctv_.php?id=scwhly
-四川经济,http://dsk.cc/sctv/sctv_.php?id=scjj
-四川新闻,http://dsk.cc/sctv/sctv_.php?id=scxw
-四川影视文艺,http://dsk.cc/sctv/sctv_.php?id=scyswy
- 四川星空购物,http://dsk.cc/sctv/sctv_.php?id=scxkgw
-四川妇女儿童,http://dsk.cc/sctv/sctv_.php?id=scfnet
-四川乡村,http://dsk.cc/sctv/sctv_.php?id=scxc
-四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+四川文化旅游,http://58.216.99.148:80/live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8
+四川经济,http://58.216.99.148:80/live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8
+四川新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8
+四川影视文艺,http://58.216.99.148:80/live2.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
+四川乡村,http://58.216.99.148:80/live2.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
+四川科教,http://58.216.99.148:80/live2.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
+四川妇女儿童,http://58.216.99.148:80/live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8
+成都新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CDTV-1_4000.m3u8
+成都经济,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CDTV-2_4000.m3u8
+成都都市,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CDTV-3_4000.m3u8
+成都影视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CDTV-4_4000.m3u8
+成都公共,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CDTV-5_4000.m3u8
+成都少儿,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CDTV-6_4000.m3u8
+成都购物,http://58.216.99.148:80/live2.rxip.sc96655.com/live/mrgw_4000.m3u8
 眉山综合,http://live1.scmstv.cn/gqpd/88R9mzwErVTp/live.m3u8
 眉山文旅乡村,http://live1.scmstv.cn/ggpd/RsnB7K9NN2k9/live.m3u8
 洪雅新闻综合,=http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8
