@@ -15,6 +15,31 @@ FUSSBALL.TV 2 FHD,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639318.m3
 FUSSBALL.TV 2ᵁᴴᴰ,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639317.m3u8
 FUSSBALL.TV 3 FHD,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639316.m3u8
 FUSSBALL.TV 3ᵁᴴᴰ,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639314.m3u8
+
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+DAZN体育-1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育-2,rtmp://f13h.mine.nu/sat/tv741
+纬来体育,https://fm1077.serv00.net/anbo/index.php?id=118
+纬来体育,https://fm1077.serv00.net/anbo/index.php?id=2732
+Eleven體育1,https://fm1077.serv00.net/anbo/index.php?id=3224
+Eleven體育2,https://fm1077.serv00.net/anbo/index.php?id=301
+ELTA體育1,https://fm1077.serv00.net/anbo/index.php?id=192
+ELTA體育1,https://fm1077.serv00.net/anbo/index.php?id=2729
+ELTA體育2,https://fm1077.serv00.net/anbo/index.php?id=193
+ELTA體育2,https://fm1077.serv00.net/anbo/index.php?id=2730
+ELTA體育3,https://fm1077.serv00.net/anbo/index.php?id=194
+ELTA體育3,https://fm1077.serv00.net/anbo/index.php?id=2731
+ELTA體育3台,https://fm1077.serv00.net/anbo/index.php?id=2722
+ELTA體育4,https://fm1077.serv00.net/anbo/index.php?id=2820
+
+Eleven體育1,http://fm1077.serv00.net/Smart.php?id=golfchannel_twn
+ELTA體育1,http://fm1077.serv00.net/Smart.php?id=eltasport_twn
+ELTA體育2,http://fm1077.serv00.net/Smart.php?id=eltasport2_twn
+ELTA體育3,http://fm1077.serv00.net/Smart.php?id=eltasport3_twn
+博斯運動1,http://fm1077.serv00.net/Smart.php?id=bosisport1_twn
+博斯運動2,http://fm1077.serv00.net/Smart.php?id=bosisport2_twn
+纬来体育,http://fm1077.serv00.net/Smart.php?id=videolandsport
+
 NOW 英超 1,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419552.m3u8
 NOW 英超 2,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419551.m3u8
 NOW 英超 3,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419550.m3u8
@@ -61,19 +86,10 @@ J Sports 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs
 J Sports 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 J Sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
-MAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
-福克斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
-格极限斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
-BT体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
-拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
-欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
-欧洲体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
-极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
-俄罗斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
-拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
-贝因体育 ,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2499/index.m3u8
-贝因体育 3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
-贝因体育 3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2501/index.m3u8
+迪拜体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+皇马,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
 罗马尼亚 4K,http://doubleclicktv.live/70376812/52663544/325451
 beIN SPORTS 4K,http://doubleclicktv.live/70376812/52663544/327643
@@ -89,13 +105,22 @@ BeIN Sports La Liga,http://doubleclicktv.live:80/70376812/52663544/941
 Bein Sports Xtra,http://doubleclicktv.live:80/70376812/52663544/939
 美国VIX+,http://doubleclicktv.live/70376812/52663544/250784
 波兰TVP 1 HD,http://doubleclicktv.live/70376812/52663544/325457
-
 Fox Sports 1,http://doubleclicktv.live:80/70376812/52663544/915
 Fox Sports 2,http://doubleclicktv.live:80/70376812/52663544/914
 ESPN 1,http://doubleclicktv.live:80/70376812/52663544/919
 ESPN 2,http://doubleclicktv.live:80/70376812/52663544/932
 ESPN U,http://doubleclicktv.live:80/70376812/52663544/920
 ESPN News,http://doubleclicktv.live:80/70376812/52663544/922
+ESPN,http://doubleclicktv.live:80/70376812/52663544/923
+ESPN College Extra 1,http://doubleclicktv.live:80/70376812/52663544/930
+ESPN College Extra 2,http://doubleclicktv.live:80/70376812/52663544/929
+ESPN College Extra 3,http://doubleclicktv.live:80/70376812/52663544/928
+ESPN College Extra 4,http://doubleclicktv.live:80/70376812/52663544/927
+ESPN College Extra 5,http://doubleclicktv.live:80/70376812/52663544/926
+ESPN College Extra 6,http://doubleclicktv.live:80/70376812/52663544/925
+ESPN College Extra 7,http://doubleclicktv.live:80/70376812/52663544/924
+ESPN SEC Network,http://doubleclicktv.live:80/70376812/52663544/921
+ESPN SEC+,http://doubleclicktv.live:80/70376812/52663544/823
 Stadium,http://doubleclicktv.live:80/70376812/52663544/846
 Stadium 1,http://doubleclicktv.live:80/70376812/52663544/845
 Stadium 2,http://doubleclicktv.live:80/70376812/52663544/844
@@ -157,16 +182,6 @@ Big Ten Network Overflow 3,http://doubleclicktv.live:80/70376812/52663544/937
 Big Ten Network Overflow 4,http://doubleclicktv.live:80/70376812/52663544/936
 Billiard TV,http://doubleclicktv.live:80/70376812/52663544/818
 Eleven Sports,http://doubleclicktv.live:80/70376812/52663544/933
-ESPN,http://doubleclicktv.live:80/70376812/52663544/923
-ESPN College Extra 1,http://doubleclicktv.live:80/70376812/52663544/930
-ESPN College Extra 2,http://doubleclicktv.live:80/70376812/52663544/929
-ESPN College Extra 3,http://doubleclicktv.live:80/70376812/52663544/928
-ESPN College Extra 4,http://doubleclicktv.live:80/70376812/52663544/927
-ESPN College Extra 5,http://doubleclicktv.live:80/70376812/52663544/926
-ESPN College Extra 6,http://doubleclicktv.live:80/70376812/52663544/925
-ESPN College Extra 7,http://doubleclicktv.live:80/70376812/52663544/924
-ESPN SEC Network,http://doubleclicktv.live:80/70376812/52663544/921
-ESPN SEC+,http://doubleclicktv.live:80/70376812/52663544/823
 FanDuel Racing,http://doubleclicktv.live:80/70376812/52663544/814
 FanDuel TV,http://doubleclicktv.live:80/70376812/52663544/815
 FNTSY Sports Network,http://doubleclicktv.live:80/70376812/52663544/917
@@ -226,6 +241,7 @@ YES Network,http://doubleclicktv.live:80/70376812/52663544/827
 NFL Network,http://doubleclicktv.live:80/70376812/52663544/868
 NFL Red zone,http://doubleclicktv.live:80/70376812/52663544/867
 Olympic Channel,http://doubleclicktv.live:80/70376812/52663544/866
+
 🐉香港3「线路」,#genre#
 凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.246.134:1234
 凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000
@@ -378,10 +394,10 @@ Super Free,http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hev
 华视,rtmp://f13h.mine.nu/sat/tv111
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
 DAZN体育-1,rtmp://f13h.mine.nu/sat/tv731
 DAZN体育-2,rtmp://f13h.mine.nu/sat/tv741
 
@@ -2865,7 +2881,7 @@ J Sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs
 迪拜体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-
+皇马,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 红牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 红牛电视,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -2900,7 +2916,7 @@ MUTV (720p),https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu
 Ovacion TV (720p) [Not 24/7],http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 Pac 12 Insider (1080p),https://pac12-roku-us.amagi.tv/playlist.m3u8
 Racing,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-皇马,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+
 San Marino RTV Sport (720p),https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 Ski TV (1080p) [Not 24/7],https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
 Swerve Sports (1080p),https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
