@@ -1,8 +1,12 @@
-🏆欧洲杯赛事🏆,#genre#
+🏆体育直播🏆,#genre#
 咪咕 欧洲杯 1,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
 咪咕 欧洲杯 2,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
 咪咕 欧洲杯 3,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
-CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546
+CCTV5,http://mail.petzhu.top:7000/rtp/239.254.201.153:7206
+CCTV5+,http://mail.petzhu.top:7000/rtp/239.254.200.46:8004
+CCTV5+,http://home.huaz.site:4000/udp/239.21.1.142:5002
+成都公共,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CDTV-5_4000.m3u8
 Now Sports 3,http://cdn.1678520.xyz/xsj.php?id=now-sports-3
 ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 FUSSBALL.TV 1 FHD,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639321.m3u8
@@ -11,12 +15,6 @@ FUSSBALL.TV 2 FHD,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639318.m3
 FUSSBALL.TV 2ᵁᴴᴰ,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639317.m3u8
 FUSSBALL.TV 3 FHD,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639316.m3u8
 FUSSBALL.TV 3ᵁᴴᴰ,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639314.m3u8
-罗马尼亚 4K,http://doubleclicktv.live/70376812/52663544/325451
-beIN SPORTS 4K,http://doubleclicktv.live/70376812/52663544/327643
-beIN体育 4K,http://doubleclicktv.live/70376812/52663544/325450
-美国VIX+,http://doubleclicktv.live/70376812/52663544/250784
-波兰TVP 1 HD,http://doubleclicktv.live/70376812/52663544/325457
-beIN体育 HD,http://doubleclicktv.live/70376812/52663544/325455
 NOW 英超 1,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419552.m3u8
 NOW 英超 2,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419551.m3u8
 NOW 英超 3,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419550.m3u8
@@ -50,7 +48,184 @@ NOW 体育 4台,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&st
 NOW 体育 5台,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032475&extension=ts&play_token=Q41nJQn6hR
 NOW 体育 6台,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032474&extension=ts&play_token=Q7LoQPFPhf
 NOW 体育 7台,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032473&extension=ts&play_token=TZmKFnaAi2
+J Sports 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+J Sports 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+J Sports 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+J Sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+J Sports 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J Sports 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J Sports 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J Sports 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+J Sports 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+J Sports 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+J Sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
+MAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
+福克斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
+格极限斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
+BT体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
+拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
+欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
+欧洲体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
+俄罗斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
+拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
+贝因体育 ,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2499/index.m3u8
+贝因体育 3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
+贝因体育 3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2501/index.m3u8
+
+罗马尼亚 4K,http://doubleclicktv.live/70376812/52663544/325451
+beIN SPORTS 4K,http://doubleclicktv.live/70376812/52663544/327643
+beIN体育 4K,http://doubleclicktv.live/70376812/52663544/325450
+beIN体育 HD,http://doubleclicktv.live/70376812/52663544/325455
+BeIN Sports 4,http://doubleclicktv.live:80/70376812/52663544/947
+BeIN Sports 5,http://doubleclicktv.live:80/70376812/52663544/946
+BeIN Sports 6,http://doubleclicktv.live:80/70376812/52663544/945
+BeIN Sports 7,http://doubleclicktv.live:80/70376812/52663544/944
+BeIN Sports 8,http://doubleclicktv.live:80/70376812/52663544/943
+Bein Sports en Espanol UHD,http://doubleclicktv.live:80/70376812/52663544/942
+BeIN Sports La Liga,http://doubleclicktv.live:80/70376812/52663544/941
+Bein Sports Xtra,http://doubleclicktv.live:80/70376812/52663544/939
+美国VIX+,http://doubleclicktv.live/70376812/52663544/250784
+波兰TVP 1 HD,http://doubleclicktv.live/70376812/52663544/325457
+
+Fox Sports 1,http://doubleclicktv.live:80/70376812/52663544/915
+Fox Sports 2,http://doubleclicktv.live:80/70376812/52663544/914
+ESPN 1,http://doubleclicktv.live:80/70376812/52663544/919
+ESPN 2,http://doubleclicktv.live:80/70376812/52663544/932
+ESPN U,http://doubleclicktv.live:80/70376812/52663544/920
+ESPN News,http://doubleclicktv.live:80/70376812/52663544/922
+Stadium,http://doubleclicktv.live:80/70376812/52663544/846
+Stadium 1,http://doubleclicktv.live:80/70376812/52663544/845
+Stadium 2,http://doubleclicktv.live:80/70376812/52663544/844
+Stadium 3,http://doubleclicktv.live:80/70376812/52663544/843
+Altitude Sports,http://doubleclicktv.live:80/70376812/52663544/974
+Altitude Sports Alternate,http://doubleclicktv.live:80/70376812/52663544/973
+Fox Soccer Plus,http://doubleclicktv.live:80/70376812/52663544/916
+Fox Sports Netbase,http://doubleclicktv.live:80/70376812/52663544/910
+Fox Sports Sun (South Florida),http://doubleclicktv.live:80/70376812/52663544/904
+NBA TV,http://doubleclicktv.live:80/70376812/52663544/885
+NBA BET,http://doubleclicktv.live:80/70376812/52663544/294735
+Spectrum SportsNet LA Dodgers,http://doubleclicktv.live:80/70376812/52663544/852
+Spectrum SportsNet Lakers,http://doubleclicktv.live:80/70376812/52663544/851
+Spectrum SportsNet Lakers Alternate,http://doubleclicktv.live:80/70376812/52663544/850
+SportsGrid,http://doubleclicktv.live:80/70376812/52663544/817
+Sportsman,http://doubleclicktv.live:80/70376812/52663544/849
+NBC Sports Peacock,http://doubleclicktv.live:80/70376812/52663544/274813
+NBC Golf Pass (PC),http://doubleclicktv.live:80/70376812/52663544/824
+NBC Sports Bay Area Plus,http://doubleclicktv.live:80/70376812/52663544/883
+NBC Sports California Plus,http://doubleclicktv.live:80/70376812/52663544/880
+NBC Sports Chicago Plus 2,http://doubleclicktv.live:80/70376812/52663544/877
+NBC Sports Philadelphia Plus,http://doubleclicktv.live:80/70376812/52663544/873
+NBC Sports Washington Plus,http://doubleclicktv.live:80/70376812/52663544/871
+MLB Network,http://doubleclicktv.live:80/70376812/52663544/891
+MLB Strike Zone,http://doubleclicktv.live:80/70376812/52663544/890
+NHL Network,http://doubleclicktv.live:80/70376812/52663544/258265
+ACC Network,http://doubleclicktv.live:80/70376812/52663544/975
+Golf Channel,http://doubleclicktv.live:80/70376812/52663544/897
+Fight Network,http://doubleclicktv.live:80/70376812/52663544/918
+CBS Sports Network,http://doubleclicktv.live:80/70376812/52663544/934
+UFC Channel,http://doubleclicktv.live:80/70376812/52663544/833
+WWE,http://doubleclicktv.live:80/70376812/52663544/828
+Bally Sports Detroit Extra,http://doubleclicktv.live:80/70376812/52663544/274519
+Bally Sports Southwest Dallas Extra,http://doubleclicktv.live:80/70376812/52663544/294731
+NLSE,http://doubleclicktv.live:80/70376812/52663544/294727
+Triller Tv,http://doubleclicktv.live:80/70376812/52663544/294382
+SNY Sports,http://doubleclicktv.live:80/70376812/52663544/287132
+Root Sports plus 2,http://doubleclicktv.live:80/70376812/52663544/286886
+MSGSN,http://doubleclicktv.live:80/70376812/52663544/286883
+Bally Sports South Extra,http://doubleclicktv.live:80/70376812/52663544/286881
+Altitude 2,http://doubleclicktv.live:80/70376812/52663544/286880
+Bally Sports Detroit Plus,http://doubleclicktv.live:80/70376812/52663544/285759
+Bally Sports Oklahoma Plus,http://doubleclicktv.live:80/70376812/52663544/285758
+AT&T SportsNet Pittsburgh,http://doubleclicktv.live:80/70376812/52663544/972
+AT&T SportsNet Rocky Mountain,http://doubleclicktv.live:80/70376812/52663544/971
+AT&T Sportsnet Rocky Mountain Plus,http://doubleclicktv.live:80/70376812/52663544/970
+AT&T SportsNet Rocky Mountain West,http://doubleclicktv.live:80/70376812/52663544/969
+Space City Home Network,http://doubleclicktv.live:80/70376812/52663544/968
+Bally Sports Arizona Extra,http://doubleclicktv.live:80/70376812/52663544/967
+Bally Sports Arizona,http://doubleclicktv.live:80/70376812/52663544/913
+Bally SPORTS CAROLINA,http://doubleclicktv.live:80/70376812/52663544/966
+Bally Sports Wisconsin,http://doubleclicktv.live:80/70376812/52663544/902
+BallySports Oklahoma,http://doubleclicktv.live:80/70376812/52663544/948
+Barstool Sports,http://doubleclicktv.live:80/70376812/52663544/826
+Bein Sports,http://doubleclicktv.live:80/70376812/52663544/940
+Big Ten Network,http://doubleclicktv.live:80/70376812/52663544/935
+Big Ten Network Overflow 2,http://doubleclicktv.live:80/70376812/52663544/938
+Big Ten Network Overflow 3,http://doubleclicktv.live:80/70376812/52663544/937
+Big Ten Network Overflow 4,http://doubleclicktv.live:80/70376812/52663544/936
+Billiard TV,http://doubleclicktv.live:80/70376812/52663544/818
+Eleven Sports,http://doubleclicktv.live:80/70376812/52663544/933
+ESPN,http://doubleclicktv.live:80/70376812/52663544/923
+ESPN College Extra 1,http://doubleclicktv.live:80/70376812/52663544/930
+ESPN College Extra 2,http://doubleclicktv.live:80/70376812/52663544/929
+ESPN College Extra 3,http://doubleclicktv.live:80/70376812/52663544/928
+ESPN College Extra 4,http://doubleclicktv.live:80/70376812/52663544/927
+ESPN College Extra 5,http://doubleclicktv.live:80/70376812/52663544/926
+ESPN College Extra 6,http://doubleclicktv.live:80/70376812/52663544/925
+ESPN College Extra 7,http://doubleclicktv.live:80/70376812/52663544/924
+ESPN SEC Network,http://doubleclicktv.live:80/70376812/52663544/921
+ESPN SEC+,http://doubleclicktv.live:80/70376812/52663544/823
+FanDuel Racing,http://doubleclicktv.live:80/70376812/52663544/814
+FanDuel TV,http://doubleclicktv.live:80/70376812/52663544/815
+FNTSY Sports Network,http://doubleclicktv.live:80/70376812/52663544/917
+Fubo Sports Network,http://doubleclicktv.live:80/70376812/52663544/900
+Ginx TV,http://doubleclicktv.live:80/70376812/52663544/899
+GOL TV (ENG),http://doubleclicktv.live:80/70376812/52663544/898
+Hunt Channel,http://doubleclicktv.live:80/70376812/52663544/896
+IMPACT Wrestling Channel,http://doubleclicktv.live:80/70376812/52663544/819
+Longhorn Network,http://doubleclicktv.live:80/70376812/52663544/895
+Marquee Sports Network,http://doubleclicktv.live:80/70376812/52663544/894
+MASN,http://doubleclicktv.live:80/70376812/52663544/893
+MASN 2,http://doubleclicktv.live:80/70376812/52663544/892
+MSG,http://doubleclicktv.live:80/70376812/52663544/889
+MSG2,http://doubleclicktv.live:80/70376812/52663544/888
+MSG Plus,http://doubleclicktv.live:80/70376812/52663544/887
+MSG 2 Plus,http://doubleclicktv.live:80/70376812/52663544/886
+NESN,http://doubleclicktv.live:80/70376812/52663544/869
+NESN Plus,http://doubleclicktv.live:80/70376812/52663544/870
+NFL Channel (PC),http://doubleclicktv.live:80/70376812/52663544/825
+PAC-12 Arizona,http://doubleclicktv.live:80/70376812/52663544/864
+PAC-12 Bay Area,http://doubleclicktv.live:80/70376812/52663544/863
+PAC-12 LOS ANGELES,http://doubleclicktv.live:80/70376812/52663544/862
+PAC-12 Mountain,http://doubleclicktv.live:80/70376812/52663544/860
+PAC-12 Network,http://doubleclicktv.live:80/70376812/52663544/865
+PAC-12 Oregon,http://doubleclicktv.live:80/70376812/52663544/859
+PAC-12 Oregon 2,http://doubleclicktv.live:80/70376812/52663544/858
+PAC-12 Washington,http://doubleclicktv.live:80/70376812/52663544/857
+PlayersTV,http://doubleclicktv.live:80/70376812/52663544/816
+PX Sports,http://doubleclicktv.live:80/70376812/52663544/856
+Root Sports,http://doubleclicktv.live:80/70376812/52663544/855
+Root Sports Northwest Plus,http://doubleclicktv.live:80/70376812/52663544/854
+Root Sports Plus,http://doubleclicktv.live:80/70376812/52663544/853
+SportsNet New York FHD,http://doubleclicktv.live:80/70376812/52663544/848
+SportsNet New York SNY,http://doubleclicktv.live:80/70376812/52663544/847
+TCN_Sports_Philadelfia,http://doubleclicktv.live:80/70376812/52663544/842
+Tennis Channel,http://doubleclicktv.live:80/70376812/52663544/841
+Tennis Channel Plus 1,http://doubleclicktv.live:80/70376812/52663544/840
+Tennis Channel Plus 2,http://doubleclicktv.live:80/70376812/52663544/839
+Tennis Channel Plus 3,http://doubleclicktv.live:80/70376812/52663544/838
+Tennis Channel Plus 4,http://doubleclicktv.live:80/70376812/52663544/295796
+Tennis Channel Plus 5,http://doubleclicktv.live:80/70376812/52663544/295797
+Tennis Channel Plus 6,http://doubleclicktv.live:80/70376812/52663544/295798
+Tennis channel plus 7,http://doubleclicktv.live:80/70376812/52663544/295799
+Tennis Channel Plus 8,http://doubleclicktv.live:80/70376812/52663544/295800
+Tennis Channel Plus 9,http://doubleclicktv.live:80/70376812/52663544/295801
+Tennis Channel,http://doubleclicktv.live:80/70376812/52663544/837
+Tennis Channel  2,http://doubleclicktv.live:80/70376812/52663544/328632
+TVG Network,http://doubleclicktv.live:80/70376812/52663544/836
+TVG 2 Network,http://doubleclicktv.live:80/70376812/52663544/835
+TyC Sports,http://doubleclicktv.live:80/70376812/52663544/834
+VSIN,http://doubleclicktv.live:80/70376812/52663544/832
+Willow Cricket,http://doubleclicktv.live:80/70376812/52663544/831
+Willow Cricket Extra,http://doubleclicktv.live:80/70376812/52663544/830
+World Fishing Network,http://doubleclicktv.live:80/70376812/52663544/829
+Poker Go,http://doubleclicktv.live:80/70376812/52663544/821
+YES Network,http://doubleclicktv.live:80/70376812/52663544/827
+NFL Network,http://doubleclicktv.live:80/70376812/52663544/868
+NFL Red zone,http://doubleclicktv.live:80/70376812/52663544/867
+Olympic Channel,http://doubleclicktv.live:80/70376812/52663544/866
 🐉香港3「线路」,#genre#
 凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.246.134:1234
 凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000
