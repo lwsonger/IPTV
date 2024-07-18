@@ -22,7 +22,6 @@ DAZN体育-2,rtmp://f13h.mine.nu/sat/tv741
 
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
@@ -37,8 +36,6 @@ DW,http://61.221.215.25:8800/hls/1/index.m3u8
 NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
 
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
@@ -90,33 +87,33 @@ Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 台湾俄线,#genre#
+凤凰资讯,http://194.87.101.118/live.m3u8?c=2
+中天亚洲,http://194.87.101.118/live.m3u8?c=3
 台视新闻,http://194.87.101.118/live.m3u8?c=4
-公视新闻,http://194.87.101.118/live.m3u8?c=8
-民视新闻,http://194.87.101.118/live.m3u8?c=11
-三立新闻,http://194.87.101.118/live.m3u8?c=12
-华视新闻,http://194.87.101.118/live.m3u8?c=13
-鏡新闻,http://194.87.101.118/live.m3u8?c=10
 TVBS新闻,http://194.87.101.118/live.m3u8?c=5
 中视新闻,http://194.87.101.118/live.m3u8?c=6
 中天新闻,http://194.87.101.118/live.m3u8?c=7
-中天亚洲,http://194.87.101.118/live.m3u8?c=3
-东森财经新闻,http://194.87.101.118/live.m3u8?c=14
+公视新闻,http://194.87.101.118/live.m3u8?c=8
+鏡新闻,http://194.87.101.118/live.m3u8?c=10
+民视新闻,http://194.87.101.118/live.m3u8?c=11
+三立新闻,http://194.87.101.118/live.m3u8?c=12
+华视新闻,http://194.87.101.118/live.m3u8?c=13
+东森财经,http://194.87.101.118/live.m3u8?c=14
 
 台湾晴天美国,#genre#
 台视,mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
@@ -225,7 +222,7 @@ HOY 资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 非凡新闻,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新闻,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新闻,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
-纬来体育台,P2p://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
+纬来体育,P2p://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
 ELEVEN体育2台,P2p://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
 愛爾達体育1台,P2p://generationnexxxt.com:19806/38729b9421044022a4d81ee0fe899dcd
 愛爾達体育1台,P2p://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
@@ -263,7 +260,7 @@ CinemaWorld,P2p://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 HBO Family,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
 HBO,P2p://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
 HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
-HBO強檔巨獻,P2p://generationnexxxt.com:19806/85cdd046958e48a794ff6f2d26b8ceba#
+HBO強檔巨獻,P2p://generationnexxxt.com:19806/85cdd046958e48a794ff6f2d26b8ceba
 HBO原創鉅獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
 HBO原創鉅獻,P2p://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95
 东森电影,P2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
@@ -280,7 +277,6 @@ HBO原創鉅獻,P2p://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb9
 天映频道,P2p://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
 八大戏剧,mitv://generationnexxxt.com:19806/098f02d6d36d4ac88e89e0be6d838a94
 八大戏剧,mitv://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
-八大戏剧台,mitv://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
 八大优频道,mitv://generationnexxxt.com:19806/7abaa68442ce4ed7ad7c9772fb46eda9
 超视戏剧,P2p://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
 三立戏剧台,mitv://generationnexxxt.com:19806/7a5b874b630d457bb5997a2fe4690550
@@ -292,18 +288,18 @@ HITS HD,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 DAZN体育-1,rtmp://f13h.mine.nu/sat/tv731
 DAZN体育-2,rtmp://f13h.mine.nu/sat/tv741
-J Sports 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
-J Sports 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
-J Sports 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
-J Sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
-J Sports 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-J Sports 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-J Sports 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-J Sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-J Sports 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-J Sports 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-J Sports 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J体育1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+J体育2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+J体育3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+J体育4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+J体育1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+J体育2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+J体育3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+J体育4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+J体育1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J体育2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J体育3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J体育4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 迪拜体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
