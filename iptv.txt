@@ -35,8 +35,58 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 49号,http://61.221.215.25:8800/hls/49/index.m3u8
 DW,http://61.221.215.25:8800/hls/1/index.m3u8
 NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
 
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
+
+TVBS新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
+TVBS新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
+
+中天新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/8j108vcc/index.m3u8
+TVBS,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/qb4zc9s7/index.m3u8
+
+年代新闻,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+东森新闻,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
+
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+
+LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+动物世界 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+好消息綜合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+镜新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
+靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
+
+人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
+
+台视新闻,http://194.87.101.118/live.m3u8?c=4
+公视新闻,http://194.87.101.118/live.m3u8?c=8
+民视新闻,http://194.87.101.118/live.m3u8?c=11
+三立新闻,http://194.87.101.118/live.m3u8?c=12
+华视新闻,http://194.87.101.118/live.m3u8?c=13
+鏡新闻,http://194.87.101.118/live.m3u8?c=10
+TVBS新闻,http://194.87.101.118/live.m3u8?c=5
+中视新闻,http://194.87.101.118/live.m3u8?c=6
+中天新闻,http://194.87.101.118/live.m3u8?c=7
+中天亚洲,http://194.87.101.118/live.m3u8?c=3
+东森财经新闻,http://194.87.101.118/live.m3u8?c=14
+
+台湾美线,#genre#
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
@@ -64,49 +114,9 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-年代新闻,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
-台视新闻,http://194.87.101.118/live.m3u8?c=4
-公视新闻,http://194.87.101.118/live.m3u8?c=8
-民视新闻,http://194.87.101.118/live.m3u8?c=11
-三立新闻,http://194.87.101.118/live.m3u8?c=12
-华视新闻,http://194.87.101.118/live.m3u8?c=13
-鏡新闻,http://194.87.101.118/live.m3u8?c=10
-TVBS新闻,http://194.87.101.118/live.m3u8?c=5
-中视新闻,http://194.87.101.118/live.m3u8?c=6
-中天新闻,http://194.87.101.118/live.m3u8?c=7
-中天亚洲,http://194.87.101.118/live.m3u8?c=3
-東森財經新闻,http://194.87.101.118/live.m3u8?c=14
-
-
-
-TVBS新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
-TVBS新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
-
-中天新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/8j108vcc/index.m3u8
-TVBS,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/qb4zc9s7/index.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-动物世界 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-镜新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-东森新闻,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
-韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
-好消息綜合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
 台湾晴天美国,#genre#
 台视,mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
@@ -177,7 +187,6 @@ MOMO综合,P2p://generationnexxxt.com:19806/659391fc000353d298b54dbe4b486dab
 TVBS HD,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,P2p://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS亚洲台,mitv://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
-TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 Tvbs新闻,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS新闻,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 壹电视新闻,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
@@ -242,7 +251,6 @@ HBO原創鉅獻,P2p://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb9
 龍祥電影,mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
 天映經典,P2p://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
 天映频道,P2p://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戏剧,mitv://generationnexxxt.com:19806/098f02d6d36d4ac88e89e0be6d838a94
 八大戏剧,mitv://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
 八大戏剧台,mitv://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
