@@ -357,18 +357,27 @@ NOW 体育 7台,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&st
 beIN SPORTS 4K,http://doubleclicktv.live/70376812/52663544/327643
 beIN体育 4K,http://doubleclicktv.live/70376812/52663544/325450
 beIN体育 HD,http://doubleclicktv.live/70376812/52663544/325455
+Bein Xtra,http://doubleclicktv.live:80/70376812/52663544/939
+Bein Sports,http://doubleclicktv.live:80/70376812/52663544/940
+BeIN西甲,http://doubleclicktv.live:80/70376812/52663544/941
+Bein西语,http://doubleclicktv.live:80/70376812/52663544/942
 BeIN Sports 4,http://doubleclicktv.live:80/70376812/52663544/947
 BeIN Sports 5,http://doubleclicktv.live:80/70376812/52663544/946
 BeIN Sports 6,http://doubleclicktv.live:80/70376812/52663544/945
 BeIN Sports 7,http://doubleclicktv.live:80/70376812/52663544/944
 BeIN Sports 8,http://doubleclicktv.live:80/70376812/52663544/943
-Bein Sports en Espanol UHD,http://doubleclicktv.live:80/70376812/52663544/942
-BeIN Sports La Liga,http://doubleclicktv.live:80/70376812/52663544/941
-Bein Sports Xtra,http://doubleclicktv.live:80/70376812/52663544/939
+
 美国VIX+,http://doubleclicktv.live/70376812/52663544/250784
 波兰TVP 1 HD,http://doubleclicktv.live/70376812/52663544/325457
-Fox Sports 1,http://doubleclicktv.live:80/70376812/52663544/915
-Fox Sports 2,http://doubleclicktv.live:80/70376812/52663544/914
+Fox体育1,http://doubleclicktv.live:80/70376812/52663544/915
+Fox体育2,http://doubleclicktv.live:80/70376812/52663544/914
+Fox Soccer Plus,http://doubleclicktv.live:80/70376812/52663544/916
+Fox Sports Netbase,http://doubleclicktv.live:80/70376812/52663544/910
+Fox Sports Sun (South Florida),http://doubleclicktv.live:80/70376812/52663544/904
+Stadium,http://doubleclicktv.live:80/70376812/52663544/846
+Stadium 1,http://doubleclicktv.live:80/70376812/52663544/845
+Stadium 2,http://doubleclicktv.live:80/70376812/52663544/844
+Stadium 3,http://doubleclicktv.live:80/70376812/52663544/843
 ESPN 1,http://doubleclicktv.live:80/70376812/52663544/919
 ESPN 2,http://doubleclicktv.live:80/70376812/52663544/932
 ESPN U,http://doubleclicktv.live:80/70376812/52663544/920
@@ -383,15 +392,8 @@ ESPN College Extra 6,http://doubleclicktv.live:80/70376812/52663544/925
 ESPN College Extra 7,http://doubleclicktv.live:80/70376812/52663544/924
 ESPN SEC Network,http://doubleclicktv.live:80/70376812/52663544/921
 ESPN SEC+,http://doubleclicktv.live:80/70376812/52663544/823
-Stadium,http://doubleclicktv.live:80/70376812/52663544/846
-Stadium 1,http://doubleclicktv.live:80/70376812/52663544/845
-Stadium 2,http://doubleclicktv.live:80/70376812/52663544/844
-Stadium 3,http://doubleclicktv.live:80/70376812/52663544/843
 Altitude Sports,http://doubleclicktv.live:80/70376812/52663544/974
 Altitude Sports Alternate,http://doubleclicktv.live:80/70376812/52663544/973
-Fox Soccer Plus,http://doubleclicktv.live:80/70376812/52663544/916
-Fox Sports Netbase,http://doubleclicktv.live:80/70376812/52663544/910
-Fox Sports Sun (South Florida),http://doubleclicktv.live:80/70376812/52663544/904
 NBA TV,http://doubleclicktv.live:80/70376812/52663544/885
 NBA BET,http://doubleclicktv.live:80/70376812/52663544/294735
 Spectrum SportsNet LA Dodgers,http://doubleclicktv.live:80/70376812/52663544/852
@@ -415,29 +417,31 @@ Fight Network,http://doubleclicktv.live:80/70376812/52663544/918
 CBS Sports Network,http://doubleclicktv.live:80/70376812/52663544/934
 UFC Channel,http://doubleclicktv.live:80/70376812/52663544/833
 WWE,http://doubleclicktv.live:80/70376812/52663544/828
+Barstool Sports,http://doubleclicktv.live:80/70376812/52663544/826
 Bally Sports Detroit Extra,http://doubleclicktv.live:80/70376812/52663544/274519
 Bally Sports Southwest Dallas Extra,http://doubleclicktv.live:80/70376812/52663544/294731
-NLSE,http://doubleclicktv.live:80/70376812/52663544/294727
-Triller Tv,http://doubleclicktv.live:80/70376812/52663544/294382
-SNY Sports,http://doubleclicktv.live:80/70376812/52663544/287132
-Root Sports plus 2,http://doubleclicktv.live:80/70376812/52663544/286886
-MSGSN,http://doubleclicktv.live:80/70376812/52663544/286883
-Bally Sports South Extra,http://doubleclicktv.live:80/70376812/52663544/286881
-Altitude 2,http://doubleclicktv.live:80/70376812/52663544/286880
 Bally Sports Detroit Plus,http://doubleclicktv.live:80/70376812/52663544/285759
 Bally Sports Oklahoma Plus,http://doubleclicktv.live:80/70376812/52663544/285758
-AT&T SportsNet Pittsburgh,http://doubleclicktv.live:80/70376812/52663544/972
-AT&T SportsNet Rocky Mountain,http://doubleclicktv.live:80/70376812/52663544/971
-AT&T Sportsnet Rocky Mountain Plus,http://doubleclicktv.live:80/70376812/52663544/970
-AT&T SportsNet Rocky Mountain West,http://doubleclicktv.live:80/70376812/52663544/969
-Space City Home Network,http://doubleclicktv.live:80/70376812/52663544/968
+Bally Sports South Extra,http://doubleclicktv.live:80/70376812/52663544/286881
 Bally Sports Arizona Extra,http://doubleclicktv.live:80/70376812/52663544/967
 Bally Sports Arizona,http://doubleclicktv.live:80/70376812/52663544/913
 Bally SPORTS CAROLINA,http://doubleclicktv.live:80/70376812/52663544/966
 Bally Sports Wisconsin,http://doubleclicktv.live:80/70376812/52663544/902
 BallySports Oklahoma,http://doubleclicktv.live:80/70376812/52663544/948
-Barstool Sports,http://doubleclicktv.live:80/70376812/52663544/826
-Bein Sports,http://doubleclicktv.live:80/70376812/52663544/940
+AT&T SportsNet Pittsburgh,http://doubleclicktv.live:80/70376812/52663544/972
+AT&T SportsNet Rocky Mountain,http://doubleclicktv.live:80/70376812/52663544/971
+AT&T Sportsnet Rocky Mountain Plus,http://doubleclicktv.live:80/70376812/52663544/970
+AT&T SportsNet Rocky Mountain West,http://doubleclicktv.live:80/70376812/52663544/969
+Root Sports,http://doubleclicktv.live:80/70376812/52663544/855
+Root Sports Northwest Plus,http://doubleclicktv.live:80/70376812/52663544/854
+Root Sports Plus,http://doubleclicktv.live:80/70376812/52663544/853
+NLSE,http://doubleclicktv.live:80/70376812/52663544/294727
+Triller Tv,http://doubleclicktv.live:80/70376812/52663544/294382
+SNY Sports,http://doubleclicktv.live:80/70376812/52663544/287132
+Root Sports plus 2,http://doubleclicktv.live:80/70376812/52663544/286886
+MSGSN,http://doubleclicktv.live:80/70376812/52663544/286883
+Altitude 2,http://doubleclicktv.live:80/70376812/52663544/286880
+Space City Home Network,http://doubleclicktv.live:80/70376812/52663544/968
 Big Ten Network,http://doubleclicktv.live:80/70376812/52663544/935
 Big Ten Network Overflow 2,http://doubleclicktv.live:80/70376812/52663544/938
 Big Ten Network Overflow 3,http://doubleclicktv.live:80/70376812/52663544/937
@@ -473,9 +477,6 @@ PAC-12 Oregon 2,http://doubleclicktv.live:80/70376812/52663544/858
 PAC-12 Washington,http://doubleclicktv.live:80/70376812/52663544/857
 PlayersTV,http://doubleclicktv.live:80/70376812/52663544/816
 PX Sports,http://doubleclicktv.live:80/70376812/52663544/856
-Root Sports,http://doubleclicktv.live:80/70376812/52663544/855
-Root Sports Northwest Plus,http://doubleclicktv.live:80/70376812/52663544/854
-Root Sports Plus,http://doubleclicktv.live:80/70376812/52663544/853
 SportsNet New York FHD,http://doubleclicktv.live:80/70376812/52663544/848
 SportsNet New York SNY,http://doubleclicktv.live:80/70376812/52663544/847
 TCN_Sports_Philadelfia,http://doubleclicktv.live:80/70376812/52663544/842
@@ -504,6 +505,96 @@ NFL Network,http://doubleclicktv.live:80/70376812/52663544/868
 NFL Red zone,http://doubleclicktv.live:80/70376812/52663544/867
 Olympic Channel,http://doubleclicktv.live:80/70376812/52663544/866
 
+US| CNN News,http://doubleclicktv.live:80/70376812/52663544/1041
+US| CNBC News,http://doubleclicktv.live:80/70376812/52663544/1043
+US| NBC News NOW,http://doubleclicktv.live:80/70376812/52663544/992
+US| Newsmax,http://doubleclicktv.live:80/70376812/52663544/1024
+US| NewsNation,http://doubleclicktv.live:80/70376812/52663544/995
+US| MSNBC,http://doubleclicktv.live:80/70376812/52663544/1034
+US| ABC News Live,http://doubleclicktv.live:80/70376812/52663544/1067
+US| BBC America,http://doubleclicktv.live:80/70376812/52663544/1066
+US| BBC World News,http://doubleclicktv.live:80/70376812/52663544/1065
+US| Fox News,http://doubleclicktv.live:80/70376812/52663544/1038
+US| The Grio,http://doubleclicktv.live:80/70376812/52663544/1063
+US| C-SPAN 1,http://doubleclicktv.live:80/70376812/52663544/1061
+US| C-SPAN 2,http://doubleclicktv.live:80/70376812/52663544/1060
+US| C-SPAN 3,http://doubleclicktv.live:80/70376812/52663544/1059
+US| CBN News International,http://doubleclicktv.live:80/70376812/52663544/1058
+US| CBSN Bay Area,http://doubleclicktv.live:80/70376812/52663544/1056
+US| CBSN Boston,http://doubleclicktv.live:80/70376812/52663544/1055
+US| CBSN Chicago,http://doubleclicktv.live:80/70376812/52663544/1054
+US| CBSN Denver,http://doubleclicktv.live:80/70376812/52663544/1052
+US| CBSN Los Angeles,http://doubleclicktv.live:80/70376812/52663544/1051
+US| CBSN Minnesota,http://doubleclicktv.live:80/70376812/52663544/1050
+US| CBSN New York,http://doubleclicktv.live:80/70376812/52663544/1049
+US| CBSN Philly,http://doubleclicktv.live:80/70376812/52663544/1048
+US| CBSN Pittsburgh,http://doubleclicktv.live:80/70376812/52663544/1047
+US| Fox Business,http://doubleclicktv.live:80/70376812/52663544/1039
+US| FOX Weather,http://doubleclicktv.live:80/70376812/52663544/994
+US| CNN INTERNATIONAL,http://doubleclicktv.live:80/70376812/52663544/1040
+US| CNBC World,http://doubleclicktv.live:80/70376812/52663544/1042
+US| Cheddar News,http://doubleclicktv.live:80/70376812/52663544/1044
+US| Cheddar Business,http://doubleclicktv.live:80/70376812/52663544/1045
+US| CGTN (English),http://doubleclicktv.live:80/70376812/52663544/1046
+US| CBS News LHD,http://doubleclicktv.live:80/70376812/52663544/1057
+US| France 24 (English),http://doubleclicktv.live:80/70376812/52663544/1037
+US| RT America,http://doubleclicktv.live:80/70376812/52663544/1021
+US| HLN,http://doubleclicktv.live:80/70376812/52663544/1036
+US| LiveNOW from FOX,http://doubleclicktv.live:80/70376812/52663544/993
+US| NBCLX,http://doubleclicktv.live:80/70376812/52663544/991
+US| New England Cable News,http://doubleclicktv.live:80/70376812/52663544/1033
+US| News 12 Brooklyn,http://doubleclicktv.live:80/70376812/52663544/1032
+US| News 12 Connecticut,http://doubleclicktv.live:80/70376812/52663544/1031
+US| News 12 Hudson Valley,http://doubleclicktv.live:80/70376812/52663544/1030
+US| News 12 Long Island,http://doubleclicktv.live:80/70376812/52663544/1029
+US| News 12 New Jersey,http://doubleclicktv.live:80/70376812/52663544/1028
+US| News 12 The Bronx,http://doubleclicktv.live:80/70376812/52663544/1026
+US| News 12 Westchester,http://doubleclicktv.live:80/70376812/52663544/1025
+US| Newsy,http://doubleclicktv.live:80/70376812/52663544/1023
+US| NHK World (KCET),http://doubleclicktv.live:80/70376812/52663544/1002
+US| NHK World (WCFE),http://doubleclicktv.live:80/70376812/52663544/1001
+US| NHK World (WNJN),http://doubleclicktv.live:80/70376812/52663544/1000
+US| NHK World (WTVI),http://doubleclicktv.live:80/70376812/52663544/999
+US| NHK World (WUCF),http://doubleclicktv.live:80/70376812/52663544/998
+US| One American News,http://doubleclicktv.live:80/70376812/52663544/1022
+US| Spectrum Bay News 9,http://doubleclicktv.live:80/70376812/52663544/1018
+US| Spectrum News 1 ROTX,http://doubleclicktv.live:80/70376812/52663544/1010
+US| Spectrum News 1 SO CAL,http://doubleclicktv.live:80/70376812/52663544/1016
+US| Spectrum News 1 Wisconsin,http://doubleclicktv.live:80/70376812/52663544/1009
+US| Spectrum Rail Road SD,http://doubleclicktv.live:80/70376812/52663544/1003
+US| TYT Network,http://doubleclicktv.live:80/70376812/52663544/990
+US| Weather Nation,http://doubleclicktv.live:80/70376812/52663544/1020
+US| Alaska's News Source KTUU,http://doubleclicktv.live:80/70376812/52663544/997
+US| Spectrum News 1 Buffalo HD,http://doubleclicktv.live:80/70376812/52663544/306308
+US| Spectrum News 1 Albany NY,http://doubleclicktv.live:80/70376812/52663544/1014
+US| Spectrum News 13 Central FL,http://doubleclicktv.live:80/70376812/52663544/1008
+US| Atlanta News First,http://doubleclicktv.live:80/70376812/52663544/996
+US| Spectrum News 1 Covington KY,http://doubleclicktv.live:80/70376812/52663544/1015
+US| Spectrum News 1 Evansville KY,http://doubleclicktv.live:80/70376812/52663544/1011
+US| Spectrum News 1 Charlotte NC,http://doubleclicktv.live:80/70376812/52663544/1013
+US| Spectrum News NY1,http://doubleclicktv.live:80/70376812/52663544/1006
+US| NY Spectrum Noticias NY1,http://doubleclicktv.live:80/70376812/52663544/1004
+US| Infowars,http://doubleclicktv.live:80/70376812/52663544/1035
+US| Spectrum News 1 San Antonio TX,http://doubleclicktv.live:80/70376812/52663544/1005
+US| Spectrum News 1 Austin TX,http://doubleclicktv.live:80/70376812/52663544/1007
+US| CBSN Dallas,http://doubleclicktv.live:80/70376812/52663544/1053
+US| Spectrum News 1 Dallas TX,http://doubleclicktv.live:80/70376812/52663544/1012
+US| 7 News Boston (WHDH),http://doubleclicktv.live:80/70376812/52663544/1019
+US| BEK Sports News,http://doubleclicktv.live:80/70376812/52663544/1064
+US| Bloomberg,http://doubleclicktv.live:80/70376812/52663544/1062
+16K | NATIONAL GEOGRAPHICᵁᴴᴰ,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323573.m3u8
+8K | NATIONAL GEOGRAPHIC,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/150542.m3u8
+NL | NATIONAL GEOGRAPHICʳᵉᶜ,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/18.m3u8
+UK | NATIONAL GEOGRAPHIC,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/12513.m3u8
+NL| NATIONAL GEOGRAPHIC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1283043&extension=ts&play_token=4xf2oDtohJ
+NL| NATIONAL GEOGRAPHIC CHANNEL 4K,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1283272&extension=ts&play_token=yXn3RGHq5L
+PL| NATIONAL GEOGRAPHIC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=880438&extension=ts&play_token=InHRSUchT4
+ARG | NATIONAL GEOGRAPHIC HD,http://doubleclicktv.live:80/70376812/52663544/325178
+|MX| National Geographic,http://doubleclicktv.live:80/70376812/52663544/7753
+USA Animal Planet UHD,http://doubleclicktv.live:80/70376812/52663544/269009
+USA Animal Planet East,http://doubleclicktv.live:80/70376812/52663544/508
+USA Animal Planet West,http://doubleclicktv.live:80/70376812/52663544/507
+UK: Animal Planet,http://doubleclicktv.live:80/70376812/52663544/277117
 体育港线,#genre#
 RMC 体育 1 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342420
 天空体育 主赛事 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/314130
