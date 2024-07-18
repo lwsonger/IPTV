@@ -108,7 +108,7 @@ Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_
 靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
 好消息綜合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
-🐉台湾晴天美国,#genre#
+台湾晴天美国,#genre#
 台视,mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
 台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 台视,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
@@ -282,7 +282,7 @@ ELEVEN体育2台,P2p://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe
 博斯運動二台,P2p://generationnexxxt.com:19806/65e1b65400075c3dc9f3762355b36cc1
 
 
-🏆体育直播🏆,#genre#
+体育直播🏆,#genre#
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 DAZN体育-1,rtmp://f13h.mine.nu/sat/tv731
 DAZN体育-2,rtmp://f13h.mine.nu/sat/tv741
@@ -305,7 +305,7 @@ Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?che
 皇马,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
 
-🏆体育直播德线🏆,#genre#
+体育德国🏆,#genre#
 FUSSBALL.TV 1 FHD,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639321.m3u8
 FUSSBALL.TV 1ᵁᴴᴰ,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639320.m3u8
 FUSSBALL.TV 2 FHD,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639318.m3u8
@@ -328,7 +328,7 @@ NOW 5台,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419542.m3u8
 NOW 6台,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419543.m3u8
 NOW 7台,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/419544.m3u8
 
-🏆体育直播奥地利🏆,#genre#
+体育奥地利🏆,#genre#
 NOW 体育 英超 1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032487&extension=ts&play_token=Rx6nFRdBc3
 NOW 体育 英超 2,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032486&extension=ts&play_token=EJzjvUqZyt
 NOW 体育 英超 3,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032485&extension=ts&play_token=LBv0p8nQul
@@ -347,7 +347,7 @@ NOW 体育 5台,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&st
 NOW 体育 6台,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032474&extension=ts&play_token=Q7LoQPFPhf
 NOW 体育 7台,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032473&extension=ts&play_token=TZmKFnaAi2
 
-🏆体育直播西班牙🏆,#genre#
+体育西班牙🏆,#genre#
 罗马尼亚 4K,http://doubleclicktv.live/70376812/52663544/325451
 beIN SPORTS 4K,http://doubleclicktv.live/70376812/52663544/327643
 beIN体育 4K,http://doubleclicktv.live/70376812/52663544/325450
@@ -499,7 +499,31 @@ NFL Network,http://doubleclicktv.live:80/70376812/52663544/868
 NFL Red zone,http://doubleclicktv.live:80/70376812/52663544/867
 Olympic Channel,http://doubleclicktv.live:80/70376812/52663544/866
 
-🏆波兰线路🏆,#genre#
+体育香港线路,#genre#
+RMC 体育 1 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342420
+天空体育 主赛事 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/314130
+天空体育 F1 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/305406
+天空体育 网球 4K,http://extraott.com:80/live/7921751389/6097373662/79112.m3u8
+壹拾壹体育 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/280621
+UROSPORT 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185060
+NASA TV 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185407
+ASTRO SUPERSPORT 4K,http://extraott.com:80/live/7921751389/6097373662/7841.m3u8
+Love Nature 4Khttp://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/179698
+Fireplace 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/273896
+Fashion TV 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/230039
+
+Pro7Sat.1 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/283408
+RTL 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/273897
+SES UHD 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185059
+QVC Zwei 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/193879
+
+Bloomberg TV+ 4K,https://i.mjh.nz/SamsungTVPlus/USAJ3400011A8.m3u8
+Loupe 4K,https://i.mjh.nz/SamsungTVPlus/USBB1000002TK.m3u8
+Fireplace 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
+
+
+
+台港波兰线路,#genre#
 民視,https://fm1077.serv00.net/anbo/index.php?id=336
 民視,https://fm1077.serv00.net/anbo/index.php?id=2805
 民視台灣,https://fm1077.serv00.net/anbo/index.php?id=36
@@ -768,16 +792,16 @@ One,http://fm1077.serv00.net/Smart.php?id=One_mega
 RHK 31,http://fm1077.serv00.net/Smart.php?id=rhk31_twn
 RHK 32,http://fm1077.serv00.net/Smart.php?id=rhk32_twn
 
-
-
-
-🐉香港3「线路」,#genre#
+香港大陆线路,#genre#
 凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.246.134:1234
 凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000
 凤凰中文,http://dms.yryyj.site:8188/udp/239.76.246.135:1234
 凤凰中文,http://dms.yryyj.site:8188/udp/239.76.253.135:9000
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
 凤凰中文,http://ayolee.com:5253/udp/239.93.1.9:2192
 凤凰资讯,http://ayolee.com:5253/udp/239.93.1.4:2191
@@ -804,16 +828,12 @@ NOW星影,http://111.160.76.101:80/香蕉哥/now星影.live.flv
 NOW爆谷,http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
 NOW星影,http://60.30.198.43:5080/香蕉哥/now星影/hls.m3u8
 NOW爆谷,http://60.30.198.43:5080/香蕉哥/now爆谷/hls.m3u8
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-鳳凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 星空卫视,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
 无线新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 无线娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 
 
-🐉香港1「需要魔法」,#genre#
+香港荷兰线路,#genre#
 凤凰卫视,http://extraott.com:80/live/7921751389/6097373662/62830.m3u8
 凤凰香港,http://extraott.com:80/live/7921751389/6097373662/62816.m3u8
 凤凰香港,http://extraott.com:80/live/7921751389/6097373662/62822.m3u8
@@ -821,20 +841,10 @@ TVB翡翠台,http://extraott.com:80/live/7921751389/6097373662/62827.m3u8
 TVB明珠台,http://extraott.com:80/live/7921751389/6097373662/62823.m3u8
 TVB无线新闻台,http://extraott.com:80/live/7921751389/6097373662/62824.m3u8
 TVB J2台,http://extraott.com:80/live/7921751389/6097373662/62826.m3u8
-TVB翡翠台 4K,http://158.180.67.130/live/hls/JUHD/juhd.m3u8
-TVB翡翠台 4K,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
-TVB J1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
-耀才财经台HD,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-香港34台全网,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-港台RTHK33HD,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+贝因体育 1 4K,http://extraott.com:80/live/7921751389/6097373662/32911.m3u8
+贝因体育 2 4K,http://extraott.com:80/live/7921751389/6097373662/32910.m3u8
+贝因体育 3 4K,http://extraott.com:80/live/7921751389/6097373662/32909.m3u8
 
-
-🐉香港2「需要魔法」,#genre#
 凤凰中文台,http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=8e8b1c68a98cc6572af88b61417cc4e3&ext_start_limit=1719542129&int_start_limit=1719542129&ts=1719542129&c=850464580
 凤凰资讯台,http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=e295d68b7e6a9f3084d9a2969c4307a3&ext_start_limit=1719542130&int_start_limit=1719542130&ts=1719542130&c=850464580
 凤凰香港台,http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=e829237a0f9ebad957cef28bb25a08d9&ext_start_limit=1719542131&int_start_limit=1719542131&ts=1719542131&c=850464580
@@ -849,7 +859,7 @@ Super Free,http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hev
 创世电视台,http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=4f7942f2afcf743b2594cdb11b1381e1&ext_start_limit=1719542143&int_start_limit=1719542143&ts=1719542143&c=850464580
 
 
-🐉湾湾2「需要魔法」,#genre#
+🐉湾湾波兰线路,#genre#
 八大第一,http://fm1077.serv00.net/Smart.php?id=badafirst
 八大綜合,http://fm1077.serv00.net/Smart.php?id=badazhonghe
 民視,http://fm1077.serv00.net/Smart.php?id=ftvhd_taiwan
@@ -1010,7 +1020,7 @@ France 24,http://fm1077.serv00.net/Smart.php?id=france24_twn
 CBBC,http://fm1077.serv00.net/Smart.php?id=cbbc_antik
 CBeebies,http://fm1077.serv00.net/Smart.php?id=Cbeebies
 
-🐉湾湾四季魔法,#genre#
+🐉湾湾四季波兰,#genre#
 台视,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv066
 民视,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv002
 民视,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv155
@@ -2961,28 +2971,7 @@ CCTV8K[IPV6],http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_
 BesTV-4K[IPV6],http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 4K-UHD[IPV6],http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 4K-UHD[IPV6],http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-👉此处以下频道需要魔法👈,https://cloud.lxweb.cn/f/08QDU0/3.MOV
-RMC 体育 1 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342420
-天空体育 主赛事 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/314130
-天空体育 F1 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/305406
-天空体育 网球 4K,http://extraott.com:80/live/7921751389/6097373662/79112.m3u8
-壹拾壹体育 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/280621
-UROSPORT 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185060
-NASA TV 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185407
-ASTRO SUPERSPORT 4K,http://extraott.com:80/live/7921751389/6097373662/7841.m3u8
-Love Nature 4Khttp://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/179698
-Fireplace 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/273896
-Fashion TV 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/230039
-Bloomberg TV+ 4K,https://i.mjh.nz/SamsungTVPlus/USAJ3400011A8.m3u8
-Loupe 4K,https://i.mjh.nz/SamsungTVPlus/USBB1000002TK.m3u8
-Fireplace 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
-Pro7Sat.1 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/283408
-RTL 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/273897
-SES UHD 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185059
-QVC Zwei 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/193879
-贝因体育 1 4K,http://extraott.com:80/live/7921751389/6097373662/32911.m3u8
-贝因体育 2 4K,http://extraott.com:80/live/7921751389/6097373662/32910.m3u8
-贝因体育 3 4K,http://extraott.com:80/live/7921751389/6097373662/32909.m3u8
+
 
 🐉国内体育,#genre
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
