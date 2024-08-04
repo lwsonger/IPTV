@@ -1,4 +1,3 @@
-
 🐉台湾线路,#genre#
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
@@ -68,6 +67,112 @@ Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch
 新马l亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 越南ktv,http://210.245.20.94/hls/ktv1.m3u8
 泰国PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u
+
+🎎唐僧魔盒,#genre#
+三立台湾台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
+民视,mitv://generationnexxxt.com:19806/097f5c26e07342108fdbc51ad4a716a3
+台视,mitv://generationnexxxt.com:19806/2bc7114bdf304bf6b77f77e2597abd37
+中视,mitv://generationnexxxt.com:19806/fe733e3cf7ec46abbdfdeeca8db72038
+华视,mitv://generationnexxxt.com:19806/cddf0ee081ec4bd7a6d10eee48f91803
+公视,mitv://generationnexxxt.com:19806/720ba43007654178a26621b687e841fc
+民视新闻台,mitv://generationnexxxt.com:19806/83f9c2f19d134724a87ad202c3be4d05
+三立新闻台,mitv://generationnexxxt.com:19806/65b8c4df2bad49f3a68dd9aae0d40148
+壹电视新闻台,mitv://generationnexxxt.com:19806/5412871c2b4647b4882137cf515ff9bd
+年代新闻,mitv://generationnexxxt.com:19806/7c2814b267f640b6a2bb1f40999c0c3d
+东森新闻台,mitv://generationnexxxt.com:19806/5b1a60c89a0a48d0aa1f7762561dc8f0
+中天新闻台,mitv://generationnexxxt.com:19806/9b166358e81d4f04962d5ebb1534232b
+TVBS新闻台,mitv://generationnexxxt.com:19806/391b680f49b447fdb4465347a47f186c
+TVBS,mitv://generationnexxxt.com:19806/f07adafa94a54f0e88f87ff5b27a79a4
+东森财经新闻台,mitv://generationnexxxt.com:19806/782813bbfbb04477ad47b19ff3b44096
+非凡新闻台,mitv://generationnexxxt.com:19806/0e92a849a932449faf589b0bbcf0ac87
+卫视电影台,mitv://generationnexxxt.com:19806/ca7e9ea297004d71a784ecc13a14d429
+东森电影台,mitv://generationnexxxt.com:19806/75c5f6e82f5042ada8bae4d962d0256d
+纬来电影台,mitv://generationnexxxt.com:19806/92dc9fbd799c415194757c600af03d3e
+龙祥电影,mitv://generationnexxxt.com:19806/828aa2bfb7b54e49a3d2237626abaaeb
+HBO,mitv://generationnexxxt.com:19806/e7fa5341817245a495b8497cfcc463e2
+东森洋片台,mitv://generationnexxxt.com:19806/f943201058e54a0992f6f72ba5bd51e0
+AXN,mitv://generationnexxxt.com:19806/cdb9ad672153468cafe4749458bdc960
+好莱坞电影台,mitv://generationnexxxt.com:19806/959a1152a09b4cecb4164ff86039903b
+CINEMAX,mitv://generationnexxxt.com:19806/8757d50f736c4208b45653509a5b8e75
+美亚电影台HD,mitv://generationnexxxt.com:19806/8e7d3c8ae8b9446899c8ab6e5ef174a7
+龙华电影,mitv://generationnexxxt.com:19806/e34f3fca8bf0408da045a6ec448250a7
+星卫HD电影台,mitv://generationnexxxt.com:19806/4ea881602a674ae090c232d74338d43f
+靖天映画,mitv://generationnexxxt.com:19806/b175a51dc66c420abd1f85245e0c4b75
+靖天电影台,mitv://generationnexxxt.com:19806/3630a9f9a84648139daf1e0d6cb0ef22
+WARNERTV,mitv://generationnexxxt.com:19806/d4e9d7aae1be4f1d9e6b329f5c4ebf3d
+StarMoviesHD,mitv://generationnexxxt.com:19806/d8aa2b3d6dcc4d038b5c5a3390db65f1
+AMC最爱电影,mitv://generationnexxxt.com:19806/ab8d522b6af14ee9b0d35de295247ae2
+HBOFamily,mitv://generationnexxxt.com:19806/1d36e81b512e490c8fa318a950b4be4b
+CatchPlay电影台,mitv://generationnexxxt.com:19806/e9e83bbfdb2645ef953dcf1da40624d6
+HBO强档巨献,mitv://generationnexxxt.com:19806/533d53f7adee428ca3e3c79f704a2939
+HBO原创巨献,mitv://generationnexxxt.com:19806/1782cbf67fb5403fa2795a43152d0168
+凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+莲花卫视,https://cntv.sbs/tv/lhws.php
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+风云音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
+风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+央视台球,http://hls.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
+怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+第一剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
+高尔夫网球,http://hls.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
+文化精品,http://hls.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
+兵器科技,http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+华语影院,https://cntv.sbs/tv?auth=2310201855&id=hyyy
+电竞天堂,https://cntv.sbs/tv?auth=2310201855&id=djtt
+青春动漫,https://cntv.sbs/tv?auth=2310201855&id=qcdm
+星光影院,https://cntv.sbs/tv?auth=2310201855&id=xgyy
+谍战剧场,https://cntv.sbs/tv?auth=2310201855&id=dzjc
+全球大片,https://cntv.sbs/tv?auth=2310201855&id=qqdp
+热门剧场,https://cntv.sbs/tv?auth=2310201855&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=2310201855&id=rmzy
+百视通体育1,https://cntv.sbs/tv?auth=2310201855&id=sport1
+百视通体育2,https://cntv.sbs/tv?auth=2310201855&id=sport2
+百视通体育3,https://cntv.sbs/tv?auth=2310201855&id=sport3
+百视通体育4,https://cntv.sbs/tv?auth=2310201855&id=sport4
+百视通体育5,https://cntv.sbs/tv?auth=2310201855&id=sport5
+百视通体育6,https://cntv.sbs/tv?auth=2310201855&id=sport6
+百视通体育7,https://cntv.sbs/tv?auth=2310201855&id=sport7
+
+ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
+ELEVEN2 高清,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
+ELTA体育2台,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
+ELTA体育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
+ELTA体育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
+ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
+ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w926913950.m3u8
+ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+ELEVEN體育2台,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
+ELEVEN體育2台,https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8
+ELEVEN 1,http://cineapp.org:8000/Fernando/Fernando/7451
+ELEVEN 3,http://cineapp.org:8000/Fernando/Fernando/7453
+ELEVEN 6,http://cineapp.org:8000/Fernando/Fernando/7456
+智林體育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+時尚運動X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+五星体育4k,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育4k,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
+广东体育,http://113.117.74.17:808/hls/1/index.m3u8
+广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
+CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+劲爆体育,http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+极品汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
+东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
+
+CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
+CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
+CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
+CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 
 
 🐉湾湾btjson,#genre#
@@ -631,6 +736,195 @@ USA Animal Planet East,http://doubleclicktv.live:80/70376812/52663544/508
 USA Animal Planet West,http://doubleclicktv.live:80/70376812/52663544/507
 Animal Planet,http://doubleclicktv.live:80/70376812/52663544/277117
 
+
+nasvpn体育,#genre#
+astro SUPERSPORT 3,http://w.nasvpn.xyz:8080/live/saya/saya/16585.ts?blog.ntnas.top
+astro PRIMA,http://w.nasvpn.xyz:8080/live/saya/saya/16578.ts?blog.ntnas.top
+astro OASIS,http://w.nasvpn.xyz:8080/live/saya/saya/16579.ts?blog.ntnas.top
+beIN sports,http://w.nasvpn.xyz:8080/live/saya/saya/16586.ts?blog.ntnas.top
+BEINSPORT 1 4K,http://w.nasvpn.xyz:8080/live/saya/saya/169.ts?blog.ntnas.top
+BEINSPORT 2 4K,http://w.nasvpn.xyz:8080/live/saya/saya/4099.ts?blog.ntnas.top
+BEINSPORT 3 4K,http://w.nasvpn.xyz:8080/live/saya/saya/5518.ts?blog.ntnas.top
+BEINSPORT 6 FHD,http://w.nasvpn.xyz:8080/live/saya/saya/4098.ts?blog.ntnas.top
+BEINSPORT 1  PREMIUM,http://w.nasvpn.xyz:8080/live/saya/saya/4096.ts?blog.ntnas.top
+BEINSPORT3_65,http://w.nasvpn.xyz:8080/live/saya/saya/16595.ts?blog.ntnas.top
+ESPN,http://w.nasvpn.xyz:8080/live/saya/saya/16587.ts?blog.ntnas.top
+ESPN1,http://w.nasvpn.xyz:8080/live/saya/saya/16170.ts?blog.ntnas.top
+FOX  SPORTS FLORIDA,http://w.nasvpn.xyz:8080/live/saya/saya/16175.ts?blog.ntnas.top
+FoxSport3 TH,http://w.nasvpn.xyz:8080/live/saya/saya/13298.ts?blog.ntnas.top
+FOX DEPORTES HD,http://w.nasvpn.xyz:8080/live/saya/saya/16176.ts?blog.ntnas.top
+SportV2,http://w.nasvpn.xyz:8080/live/saya/saya/16571.ts?blog.ntnas.top
+SportV2,http://w.nasvpn.xyz:8080/live/saya/saya/16572.ts?blog.ntnas.top
+SportV3,http://w.nasvpn.xyz:8080/live/saya/saya/16573.ts?blog.ntnas.top
+SPORT TV 1,http://w.nasvpn.xyz:8080/live/saya/saya/13317.ts?blog.ntnas.top
+SPORT TV 2,http://w.nasvpn.xyz:8080/live/saya/saya/13318.ts?blog.ntnas.top
+SPORT TV 3,http://w.nasvpn.xyz:8080/live/saya/saya/13319.ts?blog.ntnas.top
+SPORT TV 4,http://w.nasvpn.xyz:8080/live/saya/saya/13320.ts?blog.ntnas.top
+SPORT TV 5,http://w.nasvpn.xyz:8080/live/saya/saya/13321.ts?blog.ntnas.top
+SPOTV TRUEVISION,http://w.nasvpn.xyz:8080/live/saya/saya/13297.ts?blog.ntnas.top
+SPOTV TRUEVISION 2,http://w.nasvpn.xyz:8080/live/saya/saya/13306.ts?blog.ntnas.top
+PREMIER FOOTBALL HD 1,http://w.nasvpn.xyz:8080/live/saya/saya/13312.ts?blog.ntnas.top
+PREMIER FOOTBALL HD 2,http://w.nasvpn.xyz:8080/live/saya/saya/13313.ts?blog.ntnas.top
+PREMIER FOOTBALL HD 3,http://w.nasvpn.xyz:8080/live/saya/saya/13314.ts?blog.ntnas.top
+PREMIER FOOTBALL HD 4,http://w.nasvpn.xyz:8080/live/saya/saya/13315.ts?blog.ntnas.top
+PREMIER FOOTBALL HD 5,http://w.nasvpn.xyz:8080/live/saya/saya/13316.ts?blog.ntnas.top
+TRUE SPORT HD1,http://w.nasvpn.xyz:8080/live/saya/saya/13301.ts?blog.ntnas.top
+TRUE SPORT HD2,http://w.nasvpn.xyz:8080/live/saya/saya/13322.ts?blog.ntnas.top
+TRUE SPORT HD3,http://w.nasvpn.xyz:8080/live/saya/saya/13323.ts?blog.ntnas.top
+TRUE SPORT HD4,http://w.nasvpn.xyz:8080/live/saya/saya/13324.ts?blog.ntnas.top
+SKYNET SPORT 1,http://w.nasvpn.xyz:8080/live/saya/saya/13299.ts?blog.ntnas.top
+SKYNET SPORT 3,http://w.nasvpn.xyz:8080/live/saya/saya/13308.ts?blog.ntnas.top
+SKYNET SPORT 4,http://w.nasvpn.xyz:8080/live/saya/saya/13309.ts?blog.ntnas.top
+SKYNET SPORT 5,http://w.nasvpn.xyz:8080/live/saya/saya/13310.ts?blog.ntnas.top
+SKYNET SPORT 6,http://w.nasvpn.xyz:8080/live/saya/saya/13303.ts?blog.ntnas.top
+
+TV1,http://w.nasvpn.xyz:8080/live/saya/saya/16574.ts?blog.ntnas.top
+TV2,http://w.nasvpn.xyz:8080/live/saya/saya/16575.ts?blog.ntnas.top
+DIDIK TV,http://w.nasvpn.xyz:8080/live/saya/saya/16576.ts?blog.ntnas.top
+9,http://w.nasvpn.xyz:8080/live/saya/saya/16577.ts?blog.ntnas.top
+Unknown_16040,http://w.nasvpn.xyz:8080/live/saya/saya/16583.ts?blog.ntnas.top
+HGTV,http://w.nasvpn.xyz:8080/live/saya/saya/16584.ts?blog.ntnas.top
+PREMIERE,http://w.nasvpn.xyz:8080/live/saya/saya/16588.ts?blog.ntnas.top
+PREMIERE,http://w.nasvpn.xyz:8080/live/saya/saya/16589.ts?blog.ntnas.top
+PREMIERE,http://w.nasvpn.xyz:8080/live/saya/saya/16590.ts?blog.ntnas.top
+CHINA_47,http://w.nasvpn.xyz:8080/live/saya/saya/16592.ts?blog.ntnas.top
+ARENA1_58,http://w.nasvpn.xyz:8080/live/saya/saya/16593.ts?blog.ntnas.top
+GOLF_59,http://w.nasvpn.xyz:8080/live/saya/saya/16594.ts?blog.ntnas.top
+TV3 HD,http://w.nasvpn.xyz:8080/live/saya/saya/5149.ts?blog.ntnas.top
+TV3 B,http://w.nasvpn.xyz:8080/live/saya/saya/7836.ts?blog.ntnas.top
+TV8 HD,http://w.nasvpn.xyz:8080/live/saya/saya/6.ts?blog.ntnas.top
+BERNAMA,http://w.nasvpn.xyz:8080/live/saya/saya/4714.ts?blog.ntnas.top
+Astro Awani HD,http://w.nasvpn.xyz:8080/live/saya/saya/4715.ts?blog.ntnas.top
+TV IKIM,http://w.nasvpn.xyz:8080/live/saya/saya/869.ts?blog.ntnas.top
+Alhijrah,http://w.nasvpn.xyz:8080/live/saya/saya/186.ts?blog.ntnas.top
+Astro Ria HD,http://w.nasvpn.xyz:8080/live/saya/saya/11.ts?blog.ntnas.top
+Astro Ria B,http://w.nasvpn.xyz:8080/live/saya/saya/7868.ts?blog.ntnas.top
+PRIMA,http://w.nasvpn.xyz:8080/live/saya/saya/176.ts?blog.ntnas.top
+astro oasis,http://w.nasvpn.xyz:8080/live/saya/saya/175.ts?blog.ntnas.top
+CITRA,http://w.nasvpn.xyz:8080/live/saya/saya/172.ts?blog.ntnas.top
+CERIA HD,http://w.nasvpn.xyz:8080/live/saya/saya/5525.ts?blog.ntnas.top
+CERIA B,http://w.nasvpn.xyz:8080/live/saya/saya/177.ts?blog.ntnas.top
+BOO HD,http://w.nasvpn.xyz:8080/live/saya/saya/173.ts?blog.ntnas.top
+Astro AEC HD,http://w.nasvpn.xyz:8080/live/saya/saya/3292.ts?blog.ntnas.top
+START MOVIE,http://w.nasvpn.xyz:8080/live/saya/saya/4106.ts?blog.ntnas.top
+THRILL,http://w.nasvpn.xyz:8080/live/saya/saya/179.ts?blog.ntnas.top
+Colors Tamil HD,http://w.nasvpn.xyz:8080/live/saya/saya/4679.ts?blog.ntnas.top
+TVN HD,http://w.nasvpn.xyz:8080/live/saya/saya/1039.ts?blog.ntnas.top
+tvN Movies HD,http://w.nasvpn.xyz:8080/live/saya/saya/4684.ts?blog.ntnas.top
+ONE HD-eng,http://w.nasvpn.xyz:8080/live/saya/saya/3239.ts?blog.ntnas.top
+ONE HD-IDN,http://w.nasvpn.xyz:8080/live/saya/saya/4102.ts?blog.ntnas.top
+ANIPLUS HD,http://w.nasvpn.xyz:8080/live/saya/saya/3347.ts?blog.ntnas.top
+Sony Gem,http://w.nasvpn.xyz:8080/live/saya/saya/3349.ts?blog.ntnas.top
+K Plus,http://w.nasvpn.xyz:8080/live/saya/saya/3350.ts?blog.ntnas.top
+Blue Ant Extreme,http://w.nasvpn.xyz:8080/live/saya/saya/3348.ts?blog.ntnas.top
+Blue Ant Entertainment,http://w.nasvpn.xyz:8080/live/saya/saya/3351.ts?blog.ntnas.top
+Celestial Movies1,http://w.nasvpn.xyz:8080/live/saya/saya/3352.ts?blog.ntnas.top
+bloomberg tv,http://w.nasvpn.xyz:8080/live/saya/saya/3295.ts?blog.ntnas.top
+AXN HD MY,http://w.nasvpn.xyz:8080/live/saya/saya/5727.ts?blog.ntnas.top
+CCM,http://w.nasvpn.xyz:8080/live/saya/saya/5728.ts?blog.ntnas.top
+HGTV HD,http://w.nasvpn.xyz:8080/live/saya/saya/3294.ts?blog.ntnas.top
+DMAX HD,http://w.nasvpn.xyz:8080/live/saya/saya/3296.ts?blog.ntnas.top
+CGTN Documentary,http://w.nasvpn.xyz:8080/live/saya/saya/866.ts?blog.ntnas.top
+CGTN 1,http://w.nasvpn.xyz:8080/live/saya/saya/727.ts?blog.ntnas.top
+CGTN,http://w.nasvpn.xyz:8080/live/saya/saya/736.ts?blog.ntnas.top
+Love Nature 4K,http://w.nasvpn.xyz:8080/live/saya/saya/3214.ts?blog.ntnas.top
+WWE Network HD,http://w.nasvpn.xyz:8080/live/saya/saya/5337.ts?blog.ntnas.top
+National Geographi,http://w.nasvpn.xyz:8080/live/saya/saya/4661.ts?blog.ntnas.top
+NATIONAL GEOGRAFIG 4K,http://w.nasvpn.xyz:8080/live/saya/saya/5765.ts?blog.ntnas.top
+HITS,http://w.nasvpn.xyz:8080/live/saya/saya/7047.ts?blog.ntnas.top
+K+,http://w.nasvpn.xyz:8080/live/saya/saya/7048.ts?blog.ntnas.top
+KIX,http://w.nasvpn.xyz:8080/live/saya/saya/7049.ts?blog.ntnas.top
+ROCK EXTREME,http://w.nasvpn.xyz:8080/live/saya/saya/7051.ts?blog.ntnas.top
+ROCK ENTERTAINMENT,http://w.nasvpn.xyz:8080/live/saya/saya/7052.ts?blog.ntnas.top
+TVN MOVIE,http://w.nasvpn.xyz:8080/live/saya/saya/7055.ts?blog.ntnas.top
+Red Bull TV,http://w.nasvpn.xyz:8080/live/saya/saya/7056.ts?blog.ntnas.top
+sci-fi,http://w.nasvpn.xyz:8080/live/saya/saya/7773.ts?blog.ntnas.top
+BABY HD,http://w.nasvpn.xyz:8080/live/saya/saya/7801.ts?blog.ntnas.top
+Astro Vinmeen HD CH202,http://w.nasvpn.xyz:8080/live/saya/saya/7857.ts?blog.ntnas.top
+Star Vijay HD CH221,http://w.nasvpn.xyz:8080/live/saya/saya/7770.ts?blog.ntnas.top
+ANIPLUS,http://w.nasvpn.xyz:8080/live/saya/saya/5210.ts?blog.ntnas.top
+Family Flix,http://w.nasvpn.xyz:8080/live/saya/saya/7917.ts?blog.ntnas.top
+NBA HD,http://w.nasvpn.xyz:8080/live/saya/saya/13302.ts?blog.ntnas.top
+FOX MOVIES PREMIUM TH,http://w.nasvpn.xyz:8080/live/saya/saya/13300.ts?blog.ntnas.top
+NBT HD,http://w.nasvpn.xyz:8080/live/saya/saya/5202.ts?blog.ntnas.top
+NEWS1 HD,http://w.nasvpn.xyz:8080/live/saya/saya/5205.ts?blog.ntnas.top
+GBN HD,http://w.nasvpn.xyz:8080/live/saya/saya/5206.ts?blog.ntnas.top
+White Channel,http://w.nasvpn.xyz:8080/live/saya/saya/5207.ts?blog.ntnas.top
+Yateem TV,http://w.nasvpn.xyz:8080/live/saya/saya/5208.ts?blog.ntnas.top
+Fox Family Movies,http://w.nasvpn.xyz:8080/live/saya/saya/5212.ts?blog.ntnas.top
+WB TV,http://w.nasvpn.xyz:8080/live/saya/saya/5213.ts?blog.ntnas.top
+Channel 8,http://w.nasvpn.xyz:8080/live/saya/saya/5214.ts?blog.ntnas.top
+CTB,http://w.nasvpn.xyz:8080/live/saya/saya/5215.ts?blog.ntnas.top
+Movie Kingdom,http://w.nasvpn.xyz:8080/live/saya/saya/5225.ts?blog.ntnas.top
+Fashion TV Paris,http://w.nasvpn.xyz:8080/live/saya/saya/5227.ts?blog.ntnas.top
+Tennis,http://w.nasvpn.xyz:8080/live/saya/saya/5228.ts?blog.ntnas.top
+One Golf,http://w.nasvpn.xyz:8080/live/saya/saya/5229.ts?blog.ntnas.top
+One Golf,http://w.nasvpn.xyz:8080/live/saya/saya/5230.ts?blog.ntnas.top
+Lukthung TV,http://w.nasvpn.xyz:8080/live/saya/saya/5234.ts?blog.ntnas.top
+Green Wave,http://w.nasvpn.xyz:8080/live/saya/saya/5242.ts?blog.ntnas.top
+EFM,http://w.nasvpn.xyz:8080/live/saya/saya/5243.ts?blog.ntnas.top
+Cool fahrenheit,http://w.nasvpn.xyz:8080/live/saya/saya/5244.ts?blog.ntnas.top
+LUKTUNG NETWORK,http://w.nasvpn.xyz:8080/live/saya/saya/5246.ts?blog.ntnas.top
+NDTV India (480p),http://w.nasvpn.xyz:8080/live/saya/saya/4303.ts?blog.ntnas.top
+NDTV Profit (480p),http://w.nasvpn.xyz:8080/live/saya/saya/4305.ts?blog.ntnas.top
+NDTV Profit (480p),http://w.nasvpn.xyz:8080/live/saya/saya/4306.ts?blog.ntnas.top
+Pratidin Time (360p),http://w.nasvpn.xyz:8080/live/saya/saya/4314.ts?blog.ntnas.top
+Prime Canada TV (720p),http://w.nasvpn.xyz:8080/live/saya/saya/4315.ts?blog.ntnas.top
+Punjabi TV (720p),http://w.nasvpn.xyz:8080/live/saya/saya/4317.ts?blog.ntnas.top
+Santhora Short Flim (720p),http://w.nasvpn.xyz:8080/live/saya/saya/4322.ts?blog.ntnas.top
+Santhora TV (720p),http://w.nasvpn.xyz:8080/live/saya/saya/4323.ts?blog.ntnas.top
+Santhora TV (720p),http://w.nasvpn.xyz:8080/live/saya/saya/4324.ts?blog.ntnas.top
+Sardari TV (1080p),http://w.nasvpn.xyz:8080/live/saya/saya/4325.ts?blog.ntnas.top
+Shubhsandesh (576p),http://w.nasvpn.xyz:8080/live/saya/saya/4332.ts?blog.ntnas.top
+DISNEY,http://w.nasvpn.xyz:8080/live/saya/saya/16164.ts?blog.ntnas.top
+DISNEYJR,http://w.nasvpn.xyz:8080/live/saya/saya/16165.ts?blog.ntnas.top
+DISNEYXD,http://w.nasvpn.xyz:8080/live/saya/saya/16166.ts?blog.ntnas.top
+E! Entertaiment USA,http://w.nasvpn.xyz:8080/live/saya/saya/16168.ts?blog.ntnas.top
+ELREY,http://w.nasvpn.xyz:8080/live/saya/saya/16169.ts?blog.ntnas.top
+FANTASY,http://w.nasvpn.xyz:8080/live/saya/saya/16171.ts?blog.ntnas.top
+FIGHT NETWORK,http://w.nasvpn.xyz:8080/live/saya/saya/16173.ts?blog.ntnas.top
+FOODNETWORK,http://w.nasvpn.xyz:8080/live/saya/saya/16174.ts?blog.ntnas.top
+FOX11LA,http://w.nasvpn.xyz:8080/live/saya/saya/16177.ts?blog.ntnas.top
+FOX2CHICAGO,http://w.nasvpn.xyz:8080/live/saya/saya/16178.ts?blog.ntnas.top
+FOX2DETROIT,http://w.nasvpn.xyz:8080/live/saya/saya/16179.ts?blog.ntnas.top
+FOX32CHICAGO,http://w.nasvpn.xyz:8080/live/saya/saya/16181.ts?blog.ntnas.top
+FOX5NEWYORK,http://w.nasvpn.xyz:8080/live/saya/saya/16183.ts?blog.ntnas.top
+FOX7MIAMI,http://w.nasvpn.xyz:8080/live/saya/saya/16184.ts?blog.ntnas.top
+FOXPENN,http://w.nasvpn.xyz:8080/live/saya/saya/16186.ts?blog.ntnas.top
+FOXTAMPABAY,http://w.nasvpn.xyz:8080/live/saya/saya/16188.ts?blog.ntnas.top
+FREE FORM,http://w.nasvpn.xyz:8080/live/saya/saya/16190.ts?blog.ntnas.top
+FS1,http://w.nasvpn.xyz:8080/live/saya/saya/16191.ts?blog.ntnas.top
+FS2,http://w.nasvpn.xyz:8080/live/saya/saya/16192.ts?blog.ntnas.top
+FUSION,http://w.nasvpn.xyz:8080/live/saya/saya/16194.ts?blog.ntnas.top
+FXM,http://w.nasvpn.xyz:8080/live/saya/saya/16195.ts?blog.ntnas.top
+FXX,http://w.nasvpn.xyz:8080/live/saya/saya/16196.ts?blog.ntnas.top
+FYI,http://w.nasvpn.xyz:8080/live/saya/saya/16197.ts?blog.ntnas.top
+GALAVISION,http://w.nasvpn.xyz:8080/live/saya/saya/16198.ts?blog.ntnas.top
+GAME SHOW NETWORK  GSN,http://w.nasvpn.xyz:8080/live/saya/saya/16199.ts?blog.ntnas.top
+goltv esp,http://w.nasvpn.xyz:8080/live/saya/saya/16201.ts?blog.ntnas.top
+GOLTVENG,http://w.nasvpn.xyz:8080/live/saya/saya/16202.ts?blog.ntnas.top
+HALLMARK,http://w.nasvpn.xyz:8080/live/saya/saya/16203.ts?blog.ntnas.top
+HALLMARK DRAMA,http://w.nasvpn.xyz:8080/live/saya/saya/16204.ts?blog.ntnas.top
+HGTV (ENG),http://w.nasvpn.xyz:8080/live/saya/saya/16206.ts?blog.ntnas.top
+History HD (ENG),http://w.nasvpn.xyz:8080/live/saya/saya/16207.ts?blog.ntnas.top
+IFC,http://w.nasvpn.xyz:8080/live/saya/saya/16208.ts?blog.ntnas.top
+Lifetime HD (ENG),http://w.nasvpn.xyz:8080/live/saya/saya/16209.ts?blog.ntnas.top
+LONGHORN,http://w.nasvpn.xyz:8080/live/saya/saya/16211.ts?blog.ntnas.top
+MLB 725,http://w.nasvpn.xyz:8080/live/saya/saya/16217.ts?blog.ntnas.top
+ESPN News,http://w.nasvpn.xyz:8080/live/saya/saya/16394.ts?blog.ntnas.top
+even2,http://w.nasvpn.xyz:8080/live/saya/saya/16395.ts?blog.ntnas.top
+even 1,http://w.nasvpn.xyz:8080/live/saya/saya/16397.ts?blog.ntnas.top
+SENSASI,http://w.nasvpn.xyz:8080/live/saya/saya/16539.ts?blog.ntnas.top
+COURT 1,http://w.nasvpn.xyz:8080/live/saya/saya/13596.ts?blog.ntnas.top
+UNIFI SPORT 2,http://w.nasvpn.xyz:8080/live/saya/saya/5357.ts?blog.ntnas.top
+nurislam,http://w.nasvpn.xyz:8080/live/saya/saya/13855.ts?blog.ntnas.top
+nasional,http://w.nasvpn.xyz:8080/live/saya/saya/13851.ts?blog.ntnas.top
+pilihan,http://w.nasvpn.xyz:8080/live/saya/saya/13852.ts?blog.ntnas.top
+pelangi,http://w.nasvpn.xyz:8080/live/saya/saya/13853.ts?blog.ntnas.top
+harmoni,http://w.nasvpn.xyz:8080/live/saya/saya/13854.ts?blog.ntnas.top
+
+
+
 香港大陆线路,#genre#
 凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.246.134:1234
 凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000
@@ -956,7 +1250,7 @@ CCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.246.230:1234
 成都少儿,http://live.826pc.com/cdtv/live.php?id=6
 眉山综合,http://live1.scmstv.cn/gqpd/88R9mzwErVTp/live.m3u8
 眉山文旅乡村,http://live1.scmstv.cn/ggpd/RsnB7K9NN2k9/live.m3u8
-洪雅新闻综合,=http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8
+洪雅新闻综合,http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8
 彭山综合,http://m3u8tv.psrm.net/nmip-media/channellive/channel100740/playlist.m3u8
 青神电视台,http://lmt.scqstv.com/live1/live1.m3u8
 仁寿综合,http://play.scrstv.com/TV/xwzh.m3u8?auth_key=1701335002-0-0-3f433e2a59b5dcff4ed6e1328e60d981
@@ -1003,7 +1297,7 @@ CCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.246.230:1234
 叙永电视台,http://luzhi.xuyongrongmei.com:1935/live/xyxw/playlist.m3u8
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
 叙永电视台,rtmp://scdytv.cn:1935/live/m_xwpd_livevideo
-叙永电视台,=http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
+叙永电视台,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
 叙永电视台,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
 德阳文旅科教,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
 德阳文旅科教,rtmp://scdytv.cn:1935/live/m_ggpd_livevideo
@@ -1193,7 +1487,51 @@ CCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.246.230:1234
 石渠综合,http://sqfile.ganzitv.com/nmip-media/channellive/channel101661/playlist.m3u8
 
 
-
+南充新闻,http://tv.drs.ncntv.com.cn:8100/channellive/nczhpd.flv?zsicd
+南充公共,http://tv.drs.ncntv.com.cn:8100/channellive/ncggpd.flv?zsicd
+南充科教,http://tv.drs.ncntv.com.cn:8100/channellive/nckjpd.flv
+广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
+广元综合,http://tv.dzsm.com:8100/chan/ch1.flv?zsicd
+广元综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8?zsicd
+广元公共,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel2/playlist.m3u8?zsicd
+凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8?zsicd
+凉山语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8?zsicd
+自贡综合,http://110.189.153.160:1001/zhpd.flv?zsicd
+自贡公共,http://110.189.153.160:1002/ggpd.flv?zsicd
+德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd
+攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8?zsicd
+攀枝花公共,http://zb.pzhgd.com:9095/live/ggpd.m3u8?zsicd
+眉山综合,http://live1.scmstv.cn/gqpd/sd/live.m3u8?zsicd
+眉山公共,http://live2.scmstv.cn/ggpd/sd/live.m3u8?zsicd
+甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
+龙泉驿新闻综合,http://live.newslqy.com/live/xwpd.m3u8?zsicd
+双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd
+筠连综合,http://118.122.78.172:89/live1/live1.m3u8?zsicd
+叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
+大竹新闻综合,http://60.255.120.30:89/live1/live1.m3u8?zsicd
+大竹阳光政务,http://60.255.120.30:89/live2/live2.m3u8?zsicd
+开江新闻综合,http://lmt.kjzx.net:98/live1/live1.m3u8?zsicd
+万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
+蓬安新闻综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8?zsicd
+营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
+金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
+金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
+松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+马尔康综合,http://live.zmmek.com:90/live/zhxw.m3u8?zsicd
+剑阁新闻综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel10/playlist.m3u8?zsicd
+利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
+利州综合,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
+旺苍新闻综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel9/playlist.m3u8?zsicd
+甘洛综合,http://live.sctvcloud.com/live/ganluo.m3u8?zsicd
+石渠综合,http://tv.drs.ganzitv.com:8100/channellive/shiqu.flv?zsicd
+汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8?zsicd
+峨边电视台,http://tvfile.ebrm.lsrm.org.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8
+夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
+马边电视台,http://tvfile.mb.lsrm.org.cn/nmip-media/channellive/channel104860/playlist.m3u8?zsicd
+沐川综合,http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8?zsicd
+泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
+武胜综合,http://live2.gatv.com.cn:86/live/WS.m3u8?zsicd
 
 🐉独家线路🐯,#genre#
 CCTV1,http://27.40.16.70:8114/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183611097&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e65f76ef0fc78&FvSeid=77fd5578ee7feea2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4276&Fsv_chan_hls_se_idx=60&Fsv_TBt=8466552&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-1-CQ&Fsv_CMSID=GD_CUCC
