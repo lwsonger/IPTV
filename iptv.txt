@@ -393,10 +393,10 @@ RMC 体育 1 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342420
 壹拾壹体育 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/280621
 UROSPORT 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185060
 NASA TV 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185407
-ASTRO SUPERSPORT 4K,http://extraott.com:80/live/7921751389/6097373662/7841.m3u8
-Love Nature 4Khttp://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/179698
-Fireplace 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/273896
-Fashion TV 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/230039
+ASTRO SUPERSPORT,http://extraott.com:80/live/7921751389/6097373662/7841.m3u8
+Love Nature,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/179698
+Fireplace,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/273896
+Fashion TV,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/230039
 
 Pro7Sat.1 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/283408
 RTL 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/273897
@@ -1259,7 +1259,7 @@ CCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.246.230:1234
 峨边电视台,http://dsk.cc/sctv1/lsqx.php?id=lseb
 峨眉山综合,https://embl.emsyd.jrem.cn/aaa/003.m3u8?auth_key=1669861584-0-0-f96c19f553b976f1f9800423b10baa5b
 夹江新闻综合,http://dsk.cc/sctv1/lsqx.php?id=lsjj
-金口河综合.http://pili-live-hls.227.i2863.com/i2863-227/live_227_687291.m3u8
+金口河综合,http://pili-live-hls.227.i2863.com/i2863-227/live_227_687291.m3u8
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 马边综合,http://dsk.cc/sctv1/lsqx.php?id=lsmb
 沐川综合,http://dsk.cc/sctv1/lsqx.php?id=lsmc
@@ -1373,8 +1373,8 @@ CCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.246.230:1234
 开江综合,https://lmt.kjzx.net:98/live1/live1.m3u8
 开江综合,https://lmt.kjzx.net:98/live1/live1.m3u8
 渠县新闻综合,http://222.208.224.227:81/hls/cfp2p8m3.m3u8
-渠县新闻综合rtmp://222.208.224.227:1935/livestream/cfp2p8m3
-渠县新闻综合http://222.208.224.227:81/hls/cfp2p8m3.m3u8
+渠县新闻综合,rtmp://222.208.224.227:1935/livestream/cfp2p8m3
+渠县新闻综合,http://222.208.224.227:81/hls/cfp2p8m3.m3u8
 万源综合,http://live.wanyuannews.com/wytv/hd/live.m3u8>万源线路</a>'
 万源综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
 宣汉综合,http://livexuanhan.chinamcache.com/live/push1.m3u8
@@ -1399,7 +1399,7 @@ CCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.246.230:1234
 宝兴综合,http://tv.yunxya.com/channellive/baoxing.flv
 宝兴综合,rtmp://tv.yunxya.com:1937/channellive/baoxing
 汉源综合,http://tv.yunxya.com/channellive/hanyuan.flv
-汉源综合rtmp://tv.yunxya.com:1937/channellive/hanyuan
+汉源综合,rtmp://tv.yunxya.com:1937/channellive/hanyuan
 名山综合,http://tv.yunxya.com/channellive/mingshan.flv
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 名山综合,http://tv.yunxya.com/channellive/mingshan.flv
@@ -1463,7 +1463,6 @@ CCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.246.230:1234
 小金综合,http://xjlive.xjxrmt.cn:8091/live/xwpd.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH_HD.m3u8
 广安新闻综合,https://live1.gatv.com.cn:90/live/XWZH.m3u8
-广安新闻综合,p/qq.html?id=rtmp://live1.gatv.com.cn/live/XWZH_HD
 广安新闻综合,https://live1.gatv.com.cn:90/live/XWZH_HD.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH_HD.m3u8
 广安文旅乡村,https://live1.gatv.com.cn:90/live/GGPD.m3u8
@@ -1471,11 +1470,11 @@ CCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.246.230:1234
 广安文旅乡村,rtmp://live1.gatv.com.cn/live/GGPD_ggpdzm
 广安文旅乡村,https://live1.gatv.com.cn:90/live/GGPD.m3u8
 广安文旅乡村,https://live1.gatv.com.cn:90/live/GGPD.m3u8
-岳池电视台http://liveyc.cmc.yuechirmt.cn/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b
+岳池电视台,http://liveyc.cmc.yuechirmt.cn/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b
 巴中综合,http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
 巴中文旅生活,http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
 巴州电视,http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_1839.m3u8
-南江电视台http://36903.hlsplay.aodianyun.com/tv_radio_36903/tv_channel_1670.m3u8?auth_key=4842409639-0-0-319d3d61d27f502f5b5f0f76e7fa6874
+南江电视台,http://36903.hlsplay.aodianyun.com/tv_radio_36903/tv_channel_1670.m3u8?auth_key=4842409639-0-0-319d3d61d27f502f5b5f0f76e7fa6874
 通江综合,http://dcpull.sctvcloud.com/live/04ea69fa018910006ae9ef0600000000.m3u8
 资阳新闻综合,https://zbsczy.zyrb.com.cn/zygc/q_live169940503167305.m3u8
 资阳雁江频道,https://zbsczy.zyrb.com.cn/zygc/q_live169940504887269.m3u8
@@ -1824,7 +1823,7 @@ CCTV17,http://111.230.30.193/php/lyd.php?id=5765
 延边卫视,http://111.230.30.193/php/lyd.php?id=6516
 
 
-🐉联通专线「多线路」,#genre#
+🐉联通专线,#genre#
 CCTV1,http://60.27.20.217:4022/rtp/225.1.1.120:5002
 CCTV2,http://60.27.20.217:4022/rtp/225.1.1.133:5002
 CCTV3,http://60.27.20.217:4022/rtp/225.1.1.158:5002
@@ -2039,7 +2038,7 @@ CCTV17,http://webmail.axxe.top:4022/rtp/239.3.1.151:8144
 江西卫视,http://webmail.axxe.top:4022/rtp/239.3.1.123:8164
 
 
-🐉移动专线「多线路」,#genre#
+🐉移动专线,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -2420,7 +2419,7 @@ CCTV15,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 陕西卫视,http://111.14.181.15:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-🐉央视付费频道,#genre#
+🐉央视付费,#genre#
 CCTV风云足球,http://58.63.64.167:8888/udp/239.253.43.20:5146
 CCTV风云足球,http://58.63.64.167:8888/udp/239.253.43.14:5146
 CCTV第一剧场,http://58.63.64.167:8888/udp/239.253.43.28:5146
@@ -2608,7 +2607,7 @@ CCTV4K超清,http://124.226.28.176:8088/rtp/239.81.1.78:4056?$钦州电信
 北京4K超清,http://114.254.219.197:8000/rtp/239.3.1.249:8001$北京联通
 中录动漫4K,http://vl15191373.imwork.net:8880/udp/239.93.1.188:5140?$成都电信
 乐享4K,http://vl15191373.imwork.net:8880/udp/239.93.0.43:5140?$成都电信
-亲子趣学4K.http://vl15191373.imwork.net:8880/udp/239.93.1.191:5140?$成都电信
+亲子趣学4K,http://vl15191373.imwork.net:8880/udp/239.93.1.191:5140?$成都电信
 南国都市4K,http://14.145.225.21:8888/udp/239.253.43.99:5146$广州电信
 南国都市4K,http://113.71.148.134:5555/udp/239.253.43.99:5146?$中山电信
 广东4k超清,http://113.71.148.134:5555/udp/239.77.1.237:5146?$中山电信
@@ -2806,7 +2805,7 @@ Sky Sports Cricket,P2p://generationnexxxt.com:19806/65791ef8000290523163fcb71a5c
 Sky Sports Mix,P2p://generationnexxxt.com:19806/65791ef7000cb6683163fb6f54195e6f
 Golf Channel,P2p://generationnexxxt.com:19806/65619e930003f0fc6728c71226a25f2d
 
-🐉NBA-CBA「更新中」,#genre#
+🐉NBA-CBA,#genre#
 NBA Prime Video 1,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903014
 NBA 1 Golden State Warriors ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51215
 NBA 2 Miami Heat ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51216
